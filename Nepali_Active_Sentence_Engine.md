@@ -323,15 +323,21 @@ For **hunu**, continuous forms naturally express an ongoing process such as "bec
 
 ### Gender and respect in the tense tables
 
-The six core subjects below are deliberately neutral where Nepali is neutral. Gender variation is shown where the finite or participial form actually changes. Respectful forms are not simply ordinary forms with a polite pronoun; they can use different verb forms such as **-nuhunchha** and **-nubhayō**.
+The six core subjects below are deliberately neutral where Nepali is neutral. Gender variation is shown where the finite or participial form actually changes. Respectful forms are not simply ordinary forms with a polite pronoun; they can use different verb forms.
 
-For example:
+Examples of applicable variation:
 
+- **U doctor thiyo.** → He was a doctor.
+- **U doctor thii.** → She was a doctor.
 - **U gayo.** → He went.
 - **U gai.** → She went.
+- **Uniharu gaye.** → They went.
 - **Uhã jaanuhunubhayo.** → He/she went, respectfully.
-- **U gako chha.** → He has gone.
-- **U gaki chha.** → She has gone.
+- **U tayaar bhayeko chha.** → He has become ready.
+- **U tayaar bhayeki chha.** → She has become ready.
+- **Uhã gharma hunuhunchha.** → He/she is at home, respectfully.
+
+Where the Nepali form does not change for gender, the same form is used for male and female. Respectful forms should be learned separately where Nepali uses a distinct form such as **-nuhunchha** or **-nubhayō**.
 
 ### 11.1 Past indefinite
 
