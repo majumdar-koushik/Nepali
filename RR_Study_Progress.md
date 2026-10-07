@@ -87,6 +87,18 @@ If a future RR Tutor chat is started because the current conversation becomes to
 - **Ad-hoc Nepali chat:** questions arising from Ling or other real-world exposure.
 - **Anki:** vocabulary/chunk memory and spaced repetition.
 
+## RR numbering and learning sequence
+
+The RR has now been reordered into a deliberate learning sequence and renumbered **1–186**.
+
+The numbers are permanent learning-item IDs. They are not merely document line numbers.
+
+Therefore:
+
+**45 / 186 completed = 45 learning items completed; 141 remain.**
+
+Lessons may still be micro-managed and cover only a small subset of items at a time. An item counts toward progress only after the learner demonstrates sufficient understanding/production in testing.
+
 ## Initial lesson planning rule
 
 Before starting formal lessons, the RR Tutor should review the RR's structure and establish the intended learning sequence.
