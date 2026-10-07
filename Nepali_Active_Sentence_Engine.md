@@ -420,7 +420,7 @@ These are high-value sentence-building verbs because they combine with many othe
 | 175 | **saknu** | can / be able | **Ma Nepali bolna sakchhu.** → I can speak Nepali. |
 | 176 | **parnu** | have to / must | **Malai jaanuparchha.** → I have to go. |
 | 177 | **dinu** | give / allow | **Malai garna dinuhos.** → Let me do it. |
-| 178 | **linu** | take | **Ma yo lिन्छु.** → I will take this. |
+| 178 | **linu** | take | **Ma yo linchhu.** → I will take this. |
 | 179 | **dinu** | give | **Malai yo dinuhos.** → Please give me this. |
 | 180 | **garnu** | do / make | **Ma kaam garchhu.** → I work / do the work. |
 | 181 | **hunu** | be / become / happen | **Ke bhayeko chha?** → What has happened? |
