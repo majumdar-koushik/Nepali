@@ -4,9 +4,9 @@
 
 ## Current status
 
-- **Overall progress:** 6 / 186 items completed
-- **Remaining:** 180 items
-- **Current lesson:** ho vs chha — identity/classification (Item 7)
+- **Overall progress:** 6 / 190 items completed
+- **Remaining:** 184 items
+- **Current lesson:** Person / case forms — newly added items 7–10
 - **Current RR position:** 6
 - **Last test:** Item 6 — tapai-family
 - **Last test score:** 4 / 4 (100%)
@@ -27,7 +27,7 @@
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
-- Overall progress: **X / 186 completed**
+- Overall progress: **X / 190 completed**
 - Remaining: **186 - X**
 - Current lesson
 - Current RR item range
@@ -50,11 +50,29 @@ This status must appear at the beginning of **every lesson, practice session, te
 3. Weak items may be revisited and tested again without losing their original RR number.
 4. The RR Tutor should micro-manage lesson size rather than forcing a fixed number of RR items per lesson.
 5. The learner should normally practise a small controlled set before being tested.
-6. Tests should emphasise **English → Nepali production**, with Nepali → English comprehension used where useful.
+6. During **Round 1**, tests must be **MCQ-only** because the learner is still a beginner. Do not require free-form Nepali production in Round 1. MCQs should test genuine understanding using plausible alternatives. During **Round 2**, introduce free-form active production, especially English → Nepali, plus Nepali → English comprehension.
 7. Testing should cover relevant gender, respect, person and number variations where the grammar requires them.
 8. Weak areas should be explicitly recorded and recycled into later practice.
 9. The Tutor should not move forward merely because a lesson was completed; mastery matters more than lesson completion.
-10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression.
+10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression. The current RR contains 190 items.
+
+## Curriculum correction — 8 October 2026
+
+The original RR incorrectly omitted four person/case-form combinations after item 6. The RR has therefore been expanded from **186 to 190 items**.
+
+New items:
+- **7:** you plural informal — timiharu / timiharulai / timiharule / timiharuko
+- **8:** you plural polite — tapaiharu / tapaiharulai / tapaiharule / tapaiharuko
+- **9:** they — uniharu / uniharulai / uniharule / uniharuko
+- **10:** they respectful — uhãharu / uhãharulai / uhãharule / uhãharuko
+
+All original items 7–186 were shifted to 11–190. Existing progress remains **6 completed** because only items 1–6 had been tested/completed. The next lesson is now items **7–10**.
+
+The RR Tutor must use **190**, not 186, as the current total from this point onward.
+
+## Round 1 testing correction
+
+The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 190 items have been covered once.
 
 ## Lesson structure
 
@@ -98,13 +116,13 @@ If a future RR Tutor chat is started because the current conversation becomes to
 
 ## RR numbering and learning sequence
 
-The RR has now been reordered into a deliberate learning sequence and renumbered **1–186**.
+The RR has now been reordered into a deliberate learning sequence and renumbered **1–190**. Four missing person/case-form items (7–10) were added after the original item 6.
 
 The numbers are permanent learning-item IDs. They are not merely document line numbers.
 
 Therefore:
 
-**45 / 186 completed = 45 learning items completed; 141 remain.**
+**45 / 190 completed = 45 learning items completed; 145 remain.**
 
 Lessons may still be micro-managed and cover only a small subset of items at a time. An item counts toward progress only after the learner demonstrates sufficient understanding/production in testing.
 
@@ -116,4 +134,4 @@ If the existing RR numbering does not match that sequence, **reorder/restructure
 
 **X / 186 completed**
 
-has an intuitive meaning: X numbered learning items have been completed and 186 − X remain.
+has an intuitive meaning: X numbered learning items have been completed and 190 − X remain.
