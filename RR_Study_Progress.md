@@ -4,24 +4,24 @@
 
 ## Current status
 
-- **Overall progress:** 1 / 186 items completed
-- **Remaining:** 185 items
-- **Current lesson:** Person / case forms — you informal (Item 2)
-- **Current RR position:** 1
-- **Last test:** Item 1 — ma-family
+- **Overall progress:** 2 / 186 items completed
+- **Remaining:** 184 items
+- **Current lesson:** Person / case forms — he/she (Item 3)
+- **Current RR position:** 2
+- **Last test:** Item 2 — timi-family
 - **Last test score:** 4 / 4 (100%)
-- **Status:** Item 1 completed; Item 2 ready to begin
+- **Status:** Items 1–2 completed; Item 3 ready to begin
 
 > Progress is measured against the numbered RR items. The target is not simply to read an item, but to make it usable through practice and testing.
 
 ## Latest test record
 
 - **Date:** 8 October 2026
-- **RR item range tested:** Item 1 — ma / malai / maile / mero
+- **RR item range tested:** Item 2 — timi / timilai / timile / timro
 - **Score:** 4 / 4 (100%)
 - **Major errors:** None
 - **Weak structures/items:** None identified
-- **Decision:** Item 1 completed; advance to Item 2
+- **Decision:** Item 2 completed; advance to Item 3
 
 ## Mandatory session header
 
