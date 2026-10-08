@@ -4,31 +4,31 @@
 
 ## Current status
 
-- **Overall progress:** 6 / 190 items completed
-- **Remaining:** 184 items
-- **Current lesson:** Person / case forms — newly added items 7–10
-- **Current RR position:** 6
-- **Last test:** Item 6 — tapai-family
+- **Overall progress:** 10 / 190 items completed
+- **Remaining:** 180 items
+- **Current lesson:** ho vs chha — identity / classification vs location / state / condition
+- **Current RR position:** 10
+- **Last test:** Items 7–10 — plural person / case forms
 - **Last test score:** 4 / 4 (100%)
-- **Status:** Items 1–6 completed; Item 7 ready to begin
+- **Status:** Items 1–10 completed; Item 11 ready to begin
 
 > Progress is measured against the numbered RR items. The target is not simply to read an item, but to make it usable through practice and testing.
 
 ## Latest test record
 
 - **Date:** 8 October 2026
-- **RR item range tested:** Item 6 — tapai / tapailai / tapaile / tapaiko
+- **RR item range tested:** Items 7–10 — timiharu / tapaiharu / uniharu / uhãharu person-case families
 - **Score:** 4 / 4 (100%)
 - **Major errors:** None
 - **Weak structures/items:** None identified
-- **Decision:** Item 6 completed; advance to Item 7
+- **Decision:** Items 7–10 completed; advance to Item 11
 
 ## Mandatory session header
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
 - Overall progress: **X / 190 completed**
-- Remaining: **186 - X**
+- Remaining: **190 - X**
 - Current lesson
 - Current RR item range
 - Latest test score
@@ -36,7 +36,7 @@
 
 Example:
 
-> **RR Progress: 45 / 186 completed — 141 remaining**  
+> **RR Progress: 45 / 190 completed — 145 remaining**  
 > **Current lesson:** Postpositions 4–6  
 > **Latest test:** 88%  
 > **Weak areas:** lai vs maile
@@ -132,6 +132,6 @@ Before starting formal lessons, the RR Tutor should review the RR's structure an
 
 If the existing RR numbering does not match that sequence, **reorder/restructure the RR and renumber its items before formal progress is counted**, so that:
 
-**X / 186 completed**
+**X / 190 completed**
 
 has an intuitive meaning: X numbered learning items have been completed and 190 − X remain.
