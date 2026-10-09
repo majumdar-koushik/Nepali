@@ -505,3 +505,36 @@ Use broad Nepali input for comprehension, but actively practise a small number o
 **Anki = vocabulary and chunk memory.**
 
 **ChatGPT = active sentence generation and practice.**
+
+---
+
+# 14. Action connectors — “having done/said that”
+
+**191. Action connector: verb + -era / irregular connector forms**
+
+Use these forms to connect actions. Add **tyo** (“that”) when referring to an action/object or statement; use **tyaha** (“there”) when referring to a place. The natural choice depends on the verb and context.
+
+| English idea | Nepali phrase | Hindi |
+|---|---|---|
+| Having gone there | **tyaha gayera** | vahaan jaakar |
+| Having come there | **tyaha aayera** | vahaan aakar |
+| Having said that | **tyo bhanera** | vah kehkar / yeh kehkar |
+| Having done that | **tyo garera** | vah karke |
+| Having eaten that | **tyo khayera** | vah khaakar |
+| Having drunk that | **tyo piyera** | vah peekar |
+| Having seen that | **tyo herera** | vah dekhkar |
+| Having heard that | **tyo sunera** | vah sunkar |
+| Having written that | **tyo lekhera** | vah likhkar |
+| Having read/studied that | **tyo padhera** | vah padhkar |
+| Having taken that | **tyo liyera** | vah lekar |
+| Having given that | **tyo diyera** | vah dekar |
+| Having stayed/sat there | **tyaha basera** | vahaan rehkar / baithkar |
+| Having walked there | **tyaha hidera** | vahaan chalkar |
+| Having learned that | **tyo sikera** | vah seekhkar |
+
+**Examples**
+- **Tyo bhanera, u gayo.** → Having said that, he/she left.
+- **Tyo garera, ma ghar gayẽ.** → Having done that, I went home.
+- **Tyaha gayera, maile uslai bhetẽ.** → Having gone there, I met him/her.
+
+**Remember:** many verbs use the connector ending **-era**, but some have a changed form, such as **janu → gayera**, **aaunu → aayera**, **bhannu → bhanera**, and **khanu → khayera**. These are action-connecting forms, not a standalone tense.
