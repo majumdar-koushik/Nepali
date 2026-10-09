@@ -519,6 +519,7 @@ Use these forms to connect actions. Add **tyo** (“that”) when referring to a
 | Having gone there | **tyaha gayera** | vahaan jaakar |
 | Having come there | **tyaha aayera** | vahaan aakar |
 | Having said that | **tyo bhanera** | vah kehkar / yeh kehkar |
+| Having spoken/said that | **tyo bolera** | vah bolkar / yeh bolkar |
 | Having done that | **tyo garera** | vah karke |
 | Having eaten that | **tyo khayera** | vah khaakar |
 | Having drunk that | **tyo piyera** | vah peekar |
