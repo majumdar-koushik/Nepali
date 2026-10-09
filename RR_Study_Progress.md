@@ -4,8 +4,8 @@
 
 ## Current status
 
-- **Overall progress:** 10 / 190 items completed
-- **Remaining:** 180 items
+- **Overall progress:** 10 / 191 items completed
+- **Remaining:** 181 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
 - **Current RR position:** 10
 - **Last test:** Items 7–10 — plural person / case forms
@@ -27,8 +27,8 @@
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
-- Overall progress: **X / 190 completed**
-- Remaining: **190 - X**
+- Overall progress: **X / 191 completed**
+- Remaining: **191 - X**
 - Current lesson
 - Current RR item range
 - Latest test score
@@ -36,7 +36,7 @@
 
 Example:
 
-> **RR Progress: 45 / 190 completed — 145 remaining**  
+> **RR Progress: 45 / 191 completed — 146 remaining**  
 > **Current lesson:** Postpositions 4–6  
 > **Latest test:** 88%  
 > **Weak areas:** lai vs maile
@@ -54,11 +54,11 @@ This status must appear at the beginning of **every lesson, practice session, te
 7. Testing should cover relevant gender, respect, person and number variations where the grammar requires them.
 8. Weak areas should be explicitly recorded and recycled into later practice.
 9. The Tutor should not move forward merely because a lesson was completed; mastery matters more than lesson completion.
-10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression. The current RR contains 190 items.
+10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression. The current RR contains 191 items.
 
 ## Curriculum correction — 8 October 2026
 
-The original RR incorrectly omitted four person/case-form combinations after item 6. The RR has therefore been expanded from **186 to 190 items**.
+The original RR incorrectly omitted four person/case-form combinations after item 6. The RR has therefore been expanded from **186 to 190 items**, then to **191 items** with the action-connector addition.
 
 New items:
 - **7:** you plural informal — timiharu / timiharulai / timiharule / timiharuko
@@ -66,13 +66,13 @@ New items:
 - **9:** they — uniharu / uniharulai / uniharule / uniharuko
 - **10:** they respectful — uhãharu / uhãharulai / uhãharule / uhãharuko
 
-All original items 7–186 were shifted to 11–190. Existing progress remains **6 completed** because only items 1–6 had been tested/completed. The next lesson is now items **7–10**.
+All original items 7–186 were shifted to 11–190; the new action-connector item is numbered 191. Existing progress remains **6 completed** because only items 1–6 had been tested/completed. The next lesson is now items **7–10**.
 
-The RR Tutor must use **190**, not 186, as the current total from this point onward.
+The RR Tutor must use **191**, not 190 or 186, as the current total from this point onward.
 
 ## Round 1 testing correction
 
-The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 190 items have been covered once.
+The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 191 items have been covered once.
 
 ## Lesson structure
 
@@ -116,13 +116,13 @@ If a future RR Tutor chat is started because the current conversation becomes to
 
 ## RR numbering and learning sequence
 
-The RR has now been reordered into a deliberate learning sequence and renumbered **1–190**. Four missing person/case-form items (7–10) were added after the original item 6.
+The RR has now been reordered into a deliberate learning sequence and renumbered **1–191**. Four missing person/case-form items (7–10) were added after the original item 6.
 
 The numbers are permanent learning-item IDs. They are not merely document line numbers.
 
 Therefore:
 
-**45 / 190 completed = 45 learning items completed; 145 remain.**
+**45 / 191 completed = 45 learning items completed; 146 remain.**
 
 Lessons may still be micro-managed and cover only a small subset of items at a time. An item counts toward progress only after the learner demonstrates sufficient understanding/production in testing.
 
@@ -132,6 +132,13 @@ Before starting formal lessons, the RR Tutor should review the RR's structure an
 
 If the existing RR numbering does not match that sequence, **reorder/restructure the RR and renumber its items before formal progress is counted**, so that:
 
-**X / 190 completed**
+**X / 191 completed**
 
-has an intuitive meaning: X numbered learning items have been completed and 190 − X remain.
+has an intuitive meaning: X numbered learning items have been completed and 191 − X remain.
+
+
+## New RR item — 9 October 2026
+
+**Item 191: Action connectors — “having done/said that.”**
+
+Added a practical table of connector forms using **tyo** (“that”) for actions/statements and **tyaha** (“there”) for places. Examples include *tyo bhanera* (having said that), *tyo garera* (having done that), *tyaha gayera* (having gone there), and *tyaha aayera* (having come there). This reference addition has not yet been taught/tested. Current progress remains **10 / 191 completed — 181 remaining**. Current lesson remains **ho vs chha**, starting at item 11.
