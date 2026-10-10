@@ -539,3 +539,19 @@ Use these forms to connect actions. Add **tyo** (“that”) when referring to a
 - **Tyaha gayera, maile uslai bhetẽ.** → Having gone there, I met him/her.
 
 **Remember:** many verbs use the connector ending **-era**, but some have a changed form, such as **janu → gayera**, **aaunu → aayera**, **bhannu → bhanera**, and **khanu → khayera**. These are action-connecting forms, not a standalone tense.
+
+---
+
+# 15. Occurrence — English “have” vs Nepali “aaunu”
+
+**192. place + frequency + event + aaunu** can express that an event occurs or happens. English may express the same idea with **have**; Nepali does not use a possession verb here.
+
+- **Japanma barambaar bhukampa aaunchha.** → Earthquakes occur frequently in Japan. / Japan has frequent earthquakes.
+- **aaunu** → to come; with events such as earthquakes, it can mean to occur / happen.
+- **aaunchha** → comes / occurs, in this sentence.
+
+**Distinguish the meanings of English “have”:**
+- Possession: **Ma sanga car chha.** → I have a car.
+- Event occurrence: **Japanma barambaar bhukampa aaunchha.** → Japan has frequent earthquakes.
+
+This is a reusable construction for event types that naturally use **aaunu**; do not assume every English “have” sentence translates with **aaunu**.
