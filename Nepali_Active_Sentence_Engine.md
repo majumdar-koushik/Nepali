@@ -540,6 +540,15 @@ Use these forms to connect actions. Add **tyo** (“that”) when referring to a
 
 **Remember:** many verbs use the connector ending **-era**, but some have a changed form, such as **janu → gayera**, **aaunu → aayera**, **bhannu → bhanera**, and **khanu → khayera**. These are action-connecting forms, not a standalone tense.
 
+
+## 4.3 bhayeko le — “because of being / because it is”
+
+**193. [state or location] + bhayeko le** gives a reason: “because [someone/something] is/was in that state or location,” or “because of being …”. The subject may be understood from the surrounding sentence.
+
+- **Nadi chheu ma bhayeko le** → because it is located near the river / because of being near the river.
+- In the full sentence, the city’s location is the reason floods often occur.
+- Compare **le garda** (“because of / due to”), which is another causal expression; do not treat the two forms as interchangeable in every sentence.
+
 ---
 
 # 15. Occurrence — English “have” vs Nepali “aaunu”
