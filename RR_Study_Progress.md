@@ -4,23 +4,30 @@
 
 ## Current status
 
-- **Overall progress:** 10 / 191 items completed
-- **Remaining:** 181 items
+- **Overall progress:** 13 / 191 items completed
+- **Remaining:** 178 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
-- **Current RR position:** 10
-- **Last test:** Items 7–10 — plural person / case forms
+- **Current RR position:** 13
+- **Last test:** Items 11–13 — ho vs chha
 - **Last test score:** 4 / 4 (100%)
-- **Status:** Items 1–10 completed; Item 11 ready to begin
+- **Status:** Items 1–13 completed; Item 14 ready to begin
 
 > Progress is measured against the numbered RR items. The target is not simply to read an item, but to make it usable through practice and testing.
 
 ## Latest test record
 
-- **Date:** 8 October 2026
-- **RR item range tested:** Items 7–10 — timiharu / tapaiharu / uniharu / uhãharu person-case families
+- **Date:** 10 October 2026
+- **RR item range tested:** Items 11–13 — ho vs chha
 - **Score:** 4 / 4 (100%)
 - **Major errors:** None
 - **Weak structures/items:** None identified
+- **Decision:** Items 11–13 completed; advance to Item 14
+
+## Previous test record
+
+- **Date:** 8 October 2026
+- **RR item range tested:** Items 7–10 — plural person/case forms
+- **Score:** 4 / 4 (100%)
 - **Decision:** Items 7–10 completed; advance to Item 11
 
 ## Mandatory session header
