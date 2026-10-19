@@ -564,3 +564,27 @@ Use these forms to connect actions. Add **tyo** (“that”) when referring to a
 - Event occurrence: **Japanma barambaar bhukampa aaunchha.** → Japan has frequent earthquakes.
 
 This is a reusable construction for event types that naturally use **aaunu**; do not assume every English “have” sentence translates with **aaunu**.
+
+
+---
+
+# 16. Temporal connector — “-te samay”
+
+**194. verb stem + -da** commonly marks the time when another action happens: Hindi **“-te samay”** or, depending on the sentence, **“jab …”**. The exact form depends on the verb; learn the form with examples rather than assuming every verb is mechanically predictable.
+
+| Nepali | Hindi | Root / meaning |
+|---|---|---|
+| **pasnu → pasda** | ghusna → ghuste samay | enter |
+| **aaunu → aauda** | aana → aate samay | come |
+| **janu → jaada** | jaana → jaate samay | go |
+| **khanu → khada** | khaana → khaate samay | eat |
+| **hिड्नु / hidnu → hिँड्दा / hinda** | chalna → chalte samay | walk |
+| **sutnu → sutda** | sona → sote samay | sleep |
+| **bolnu → बोल्दा / bolda** | bolna → bolte samay | speak |
+| **padhnu → padhda** | padhna → padhte samay | read / study |
+
+**Example**
+
+- **Lutera unko gharma pasda uni sutiraheki thiyin.** → Lutera unke ghar mein ghuste samay woh so rahi thi.
+
+**Key distinction:** **-da** marks the time/background for another action (“-te samay”). Do not confuse it with **-era**, the action connector meaning “karke / karne ke baad” in many contexts, or with **-dai**, which emphasizes an action in progress (“-te hue”).
