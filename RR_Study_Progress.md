@@ -5,7 +5,7 @@
 ## Current status
 
 - **Overall progress:** 13 / 195 items completed
-- **Remaining:** 181 items
+- **Remaining:** 182 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
 - **Current RR position:** 13
 - **Last test:** Items 11–13 — ho vs chha
