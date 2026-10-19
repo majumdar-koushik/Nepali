@@ -4,7 +4,7 @@
 
 ## Current status
 
-- **Overall progress:** 13 / 194 items completed
+- **Overall progress:** 13 / 195 items completed
 - **Remaining:** 181 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
 - **Current RR position:** 13
@@ -34,7 +34,7 @@
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
-- Overall progress: **X / 194 completed**
+- Overall progress: **X / 195 completed**
 - Remaining: **194 - X**
 - Current lesson
 - Current RR item range
@@ -79,7 +79,7 @@ The RR Tutor must use **194**, not 191, 190 or 186, as the current total from th
 
 ## Round 1 testing correction
 
-The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 194 items have been covered once.
+The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 195 items have been covered once.
 
 ## Lesson structure
 
@@ -139,9 +139,9 @@ Before starting formal lessons, the RR Tutor should review the RR's structure an
 
 If the existing RR numbering does not match that sequence, **reorder/restructure the RR and renumber its items before formal progress is counted**, so that:
 
-**X / 194 completed**
+**X / 195 completed**
 
-has an intuitive meaning: X numbered learning items have been completed and 194 − X remain.
+has an intuitive meaning: X numbered learning items have been completed and 195 − X remain.
 
 
 ## New RR item — 9 October 2026
@@ -154,3 +154,8 @@ Added a practical table of connector forms using **tyo** (“that”) for action
 ## RR synchronization — 19 October 2026
 
 The master RR now contains 194 numbered items. Items 192–194 are reference additions and have not yet been taught/tested: 192 — event occurrence using aaunu; 193 — bhayeko le causal construction; 194 — temporal connector verb + -da (“-te samay”), e.g. pasda = ghuste samay. The denominator is now 194; demonstrated progress remains 13 completed, so 181 remain. Current lesson remains ho vs chha, with item 14 ready. Keep the master and progress files synchronized whenever the RR changes.
+
+
+## RR synchronization — 19 October 2026 (item 195)
+
+The master RR now contains **195 numbered items**. **Item 195: verb + -dai garda** — a temporal construction meaning “-te samay / jab … raha tha” in suitable contexts, e.g. **Hami khadai garda bahas gareko thiyau.** → Hum khaate samay behas kar rahe the. Cross-reference item 194 (**verb + -da**). Item 195 is a reference addition and has not yet been taught/tested. Progress remains **13 / 195 completed — 182 remaining**. Current lesson remains **ho vs chha**, item 14 ready. Keep the master and progress files synchronized whenever the RR changes.
