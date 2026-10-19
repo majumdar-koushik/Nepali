@@ -4,8 +4,8 @@
 
 ## Current status
 
-- **Overall progress:** 13 / 191 items completed
-- **Remaining:** 178 items
+- **Overall progress:** 13 / 194 items completed
+- **Remaining:** 181 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
 - **Current RR position:** 13
 - **Last test:** Items 11–13 — ho vs chha
@@ -34,8 +34,8 @@
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
-- Overall progress: **X / 191 completed**
-- Remaining: **191 - X**
+- Overall progress: **X / 194 completed**
+- Remaining: **194 - X**
 - Current lesson
 - Current RR item range
 - Latest test score
@@ -75,11 +75,11 @@ New items:
 
 All original items 7–186 were shifted to 11–190; the new action-connector item is numbered 191. Existing progress remains **6 completed** because only items 1–6 had been tested/completed. The next lesson is now items **7–10**.
 
-The RR Tutor must use **191**, not 190 or 186, as the current total from this point onward.
+The RR Tutor must use **194**, not 191, 190 or 186, as the current total from this point onward.
 
 ## Round 1 testing correction
 
-The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 191 items have been covered once.
+The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 194 items have been covered once.
 
 ## Lesson structure
 
@@ -123,7 +123,7 @@ If a future RR Tutor chat is started because the current conversation becomes to
 
 ## RR numbering and learning sequence
 
-The RR has now been reordered into a deliberate learning sequence and renumbered **1–191**. Four missing person/case-form items (7–10) were added after the original item 6.
+The RR has now been reordered into a deliberate learning sequence and renumbered **1–194**. Four missing person/case-form items (7–10) were added after the original item 6.
 
 The numbers are permanent learning-item IDs. They are not merely document line numbers.
 
@@ -139,9 +139,9 @@ Before starting formal lessons, the RR Tutor should review the RR's structure an
 
 If the existing RR numbering does not match that sequence, **reorder/restructure the RR and renumber its items before formal progress is counted**, so that:
 
-**X / 191 completed**
+**X / 194 completed**
 
-has an intuitive meaning: X numbered learning items have been completed and 191 − X remain.
+has an intuitive meaning: X numbered learning items have been completed and 194 − X remain.
 
 
 ## New RR item — 9 October 2026
@@ -149,3 +149,8 @@ has an intuitive meaning: X numbered learning items have been completed and 191 
 **Item 191: Action connectors — “having done/said that.”**
 
 Added a practical table of connector forms using **tyo** (“that”) for actions/statements and **tyaha** (“there”) for places. Examples include *tyo bhanera* (having said that), *tyo garera* (having done that), *tyaha gayera* (having gone there), and *tyaha aayera* (having come there). This reference addition has not yet been taught/tested. Current progress remains **10 / 191 completed — 181 remaining**. Current lesson remains **ho vs chha**, starting at item 11.
+
+
+## RR synchronization — 19 October 2026
+
+The master RR now contains 194 numbered items. Items 192–194 are reference additions and have not yet been taught/tested: 192 — event occurrence using aaunu; 193 — bhayeko le causal construction; 194 — temporal connector verb + -da (“-te samay”), e.g. pasda = ghuste samay. The denominator is now 194; demonstrated progress remains 13 completed, so 181 remain. Current lesson remains ho vs chha, with item 14 ready. Keep the master and progress files synchronized whenever the RR changes.
