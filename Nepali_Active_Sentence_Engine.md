@@ -578,9 +578,9 @@ This is a reusable construction for event types that naturally use **aaunu**; do
 | **aaunu → aauda** | aana → aate samay | come |
 | **janu → jaada** | jaana → jaate samay | go |
 | **khanu → khada** | khaana → khaate samay | eat |
-| **hिड्नु / hidnu → hिँड्दा / hinda** | chalna → chalte samay | walk |
+| **hidnu → hinda** | chalna → chalte samay | walk |
 | **sutnu → sutda** | sona → sote samay | sleep |
-| **bolnu → बोल्दा / bolda** | bolna → bolte samay | speak |
+| **bolnu → bolda** | bolna → bolte samay | speak |
 | **padhnu → padhda** | padhna → padhte samay | read / study |
 
 **Example**
