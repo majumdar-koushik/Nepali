@@ -588,3 +588,15 @@ This is a reusable construction for event types that naturally use **aaunu**; do
 - **Lutera unko gharma pasda uni sutiraheki thiyin.** → Lutera unke ghar mein ghuste samay woh so rahi thi.
 
 **Key distinction:** **-da** marks the time/background for another action (“-te samay”). Do not confuse it with **-era**, the action connector meaning “karke / karne ke baad” in many contexts, or with **-dai**, which emphasizes an action in progress (“-te hue”).
+
+
+---
+
+# 17. Temporal construction — “-te samay” with -dai garda
+
+**195. verb + -dai garda** can mark an action in progress when another action happens; in Hindi, often “-te samay” / “jab … raha tha”. Cross-reference **Item 194: verb + -da**. The two constructions are related but should not be treated as identical in every context.
+
+- **khanu → khadai garda** → khaate samay
+- **Hami khadai garda bahas gareko thiyau.** → Hum khaate samay behas kar rahe the.
+
+**Key point:** In this example, **khadai garda** means “khaate samay”; **-dai** presents the action as ongoing, and **garda** contributes the “when/while” construction.
