@@ -168,3 +168,7 @@ The master RR now contains **196 numbered items**. **Item 196: Surface resemblan
 ## RR synchronization — 26 October 2026 (item 196 expanded)
 
 Item 196 now includes a third contrast: Nepali **-le** and Hindi **-ne** are similar ergative markers in many perfective transitive clauses, but verb-agreement behaviour differs. This is supported at the grammar-pattern level by a comparative study of Hindi and Nepali split-ergative structures. Exact matched sentences are to be verified before they are used in active drills. Item 196 remains a reference addition, not a taught/tested item; progress remains **13 / 196 completed — 183 remaining**.
+
+## RR synchronization — 26 October 2026 (item 196 expanded: chaahanu vs chaahinu)
+
+Added a fourth contrast to Item 196: **U chiya chahanchha** (“Woh chai chahta/chahti hai”) vs **Malai chiya chahinchha** (“Mujhe chai chahiye”). This contrasts wanting (**chaahanu**) with need/requirement (**chaahinu**) and highlights the different sentence patterns. These examples are reference material, not taught/tested items. Progress remains **13 / 196 completed — 183 remaining**.
