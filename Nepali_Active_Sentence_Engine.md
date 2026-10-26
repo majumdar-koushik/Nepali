@@ -640,6 +640,18 @@ For every proposed Nepali–Hindi contrast:
 - This is a construction-level correspondence, not a claim that **bhayeko** always means **wala**. RR's other examples show that **bhayeko** participates in several different constructions.
 - Grammar reference: [Nepali Relative Clauses — Participial -eko and Correlative jo-tyo](https://kidschooler.com/learn/relative-clauses).
 
+
+### Case 3 — similar ergative markers, different agreement behaviour
+
+Nepali **-le** and Hindi **-ne** both mark the agent in many perfective/past transitive clauses. That surface parallel does **not** mean the two languages handle verb agreement identically.
+
+- In standard Hindi perfective transitive clauses, the verb commonly agrees with the unmarked object when the conditions for object agreement are met; the **ne**-marked agent does not control that agreement.
+- In Nepali, the verb can continue to agree with the **-le**-marked agent in comparable past transitive clauses. This is a documented Hindi–Nepali contrast, not merely a guess from similar-looking markers.
+- Learning implication: do not infer agreement rules from the presence of **-le/-ne** alone. Learn the marker and the agreement pattern together, using matched examples with different object genders/numbers.
+- Status: **validated at the grammar-pattern level**; sentence-level teaching examples should be checked before they are added to active drills.
+- Research reference: [Same Sentences, Different Grammars, Different Brain Responses? — Hindi and Nepali split-ergative structures](https://pmc.ncbi.nlm.nih.gov/articles/PMC13249467/).
+
+
 ### Further candidates to investigate — not yet validated as examples of this phenomenon
 
 - **lagnu** across constructions already listed in RR, including **kati samaya lagchha?** and **malai ramailo lagchha**: determine which meanings come from the verb and which from the full construction.
