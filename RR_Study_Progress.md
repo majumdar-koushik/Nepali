@@ -4,8 +4,8 @@
 
 ## Current status
 
-- **Overall progress:** 13 / 195 items completed
-- **Remaining:** 182 items
+- **Overall progress:** 13 / 196 items completed
+- **Remaining:** 183 items
 - **Current lesson:** ho vs chha — identity / classification vs location / state / condition
 - **Current RR position:** 13
 - **Last test:** Items 11–13 — ho vs chha
@@ -34,8 +34,8 @@
 
 **Every RR Tutor session/message must begin with a progress status block containing:**
 
-- Overall progress: **X / 195 completed**
-- Remaining: **194 - X**
+- Overall progress: **X / 196 completed**
+- Remaining: **196 - X**
 - Current lesson
 - Current RR item range
 - Latest test score
@@ -61,7 +61,7 @@ This status must appear at the beginning of **every lesson, practice session, te
 7. Testing should cover relevant gender, respect, person and number variations where the grammar requires them.
 8. Weak areas should be explicitly recorded and recycled into later practice.
 9. The Tutor should not move forward merely because a lesson was completed; mastery matters more than lesson completion.
-10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression. The current RR contains 191 items.
+10. The RR's serial numbers are the permanent reference IDs. If the RR learning order is redesigned, the serial numbering should be rearranged so that the numbers represent the intended learning progression. The current RR contains 196 numbered items.
 
 ## Curriculum correction — 8 October 2026
 
@@ -75,11 +75,11 @@ New items:
 
 All original items 7–186 were shifted to 11–190; the new action-connector item is numbered 191. Existing progress remains **6 completed** because only items 1–6 had been tested/completed. The next lesson is now items **7–10**.
 
-The RR Tutor must use **194**, not 191, 190 or 186, as the current total from this point onward.
+The RR Tutor must use **196** as the current total; earlier totals in historical notes are retained as historical records.
 
 ## Round 1 testing correction
 
-The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 195 items have been covered once.
+The first complete pass is now explicitly **MCQ-only**. Free-form Nepali production begins only in Round 2 after all 196 items have been covered once.
 
 ## Lesson structure
 
@@ -123,13 +123,13 @@ If a future RR Tutor chat is started because the current conversation becomes to
 
 ## RR numbering and learning sequence
 
-The RR has now been reordered into a deliberate learning sequence and renumbered **1–194**. Four missing person/case-form items (7–10) were added after the original item 6.
+The RR was reordered into a deliberate learning sequence and renumbered; it now contains **196** numbered items. Four missing person/case-form items (7–10) were added after the original item 6.
 
 The numbers are permanent learning-item IDs. They are not merely document line numbers.
 
 Therefore:
 
-**45 / 191 completed = 45 learning items completed; 146 remain.**
+**45 / 196 completed = 45 learning items completed; 151 remain.**
 
 Lessons may still be micro-managed and cover only a small subset of items at a time. An item counts toward progress only after the learner demonstrates sufficient understanding/production in testing.
 
@@ -139,7 +139,7 @@ Before starting formal lessons, the RR Tutor should review the RR's structure an
 
 If the existing RR numbering does not match that sequence, **reorder/restructure the RR and renumber its items before formal progress is counted**, so that:
 
-**X / 195 completed**
+**X / 196 completed**
 
 has an intuitive meaning: X numbered learning items have been completed and 195 − X remain.
 
@@ -159,3 +159,8 @@ The master RR now contains 194 numbered items. Items 192–194 are reference add
 ## RR synchronization — 19 October 2026 (item 195)
 
 The master RR now contains **195 numbered items**. **Item 195: verb + -dai garda** — a temporal construction meaning “-te samay / jab … raha tha” in suitable contexts, e.g. **Hami khadai garda bahas gareko thiyau.** → Hum khaate samay behas kar rahe the. Cross-reference item 194 (**verb + -da**). Item 195 is a reference addition and has not yet been taught/tested. Progress remains **13 / 195 completed — 182 remaining**. Current lesson remains **ho vs chha**, item 14 ready. Keep the master and progress files synchronized whenever the RR changes.
+
+
+## RR synchronization — 26 October 2026 (item 196)
+
+The master RR now contains **196 numbered items**. **Item 196: Surface resemblance vs construction-specific meaning across Nepali and Hindi.** It begins with the contrast between **Aandhee aauna lageko chha** → “Aandhi aane wali hai” and **Aandhee aauna lageko jasto chha** → “Aandhi aane wali lagti hai,” and distinguishes this from the Ling sentence **Aandhee aauna lageko jastai dekhinchha**, where **dekhinchha** contributes “looks/appears.” The section states that these are context-specific construction correspondences, not universal word-for-word rules. Further candidates are marked for investigation, not as confirmed cases. Item 196 is a reference addition and has not yet been taught/tested. Progress remains **13 / 196 completed — 183 remaining**. Current lesson remains **ho vs chha**, item 14 ready. The LearnNewLanguage course should eventually include this contrastive-learning requirement.
