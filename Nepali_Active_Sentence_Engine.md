@@ -600,3 +600,43 @@ This is a reusable construction for event types that naturally use **aaunu**; do
 - **Hami khadai garda bahas gareko thiyau.** → Hum khaate samay behas kar rahe the.
 
 **Key point:** In this example, **khadai garda** means “khaate samay”; **-dai** presents the action as ongoing, and **garda** contributes the “when/while” construction.
+
+---
+
+# 18. Surface resemblance vs construction-specific meaning across Nepali and Hindi
+
+**196. Do not assume that similar-looking words have the same grammatical function in a sentence.** Compare the complete construction first, then identify each component's contribution. A word-level resemblance is a clue to investigate, not proof of equivalence.
+
+## Case 1 — impending event vs impression
+
+| Nepali construction | Natural Hindi equivalent | Function |
+|---|---|---|
+| **Aandhee aauna lageko chha.** | **Aandhi aane wali hai.** | An event is about to happen. |
+| **Aandhee aauna lageko jasto chha.** | **Aandhi aane wali lagti hai.** | It appears/seems that the event is about to happen. |
+| **Aandhee aauna lageko jastai dekhinchha.** | **Aisa dikhta hai jaise aandhi aane wali hai.** | It looks as though a storm is approaching. |
+
+### What the comparison teaches
+
+- In these constructions, **lageko** contributes to the Nepali expression that corresponds naturally to Hindi **aane wali**. Do not translate it mechanically as Hindi **lagti** just because the forms resemble one another.
+- **Jasto** by itself is not equivalent to Hindi **lagti hai**. In the impression construction, the relevant unit is **jasto chha**, and the full phrase **lageko jasto chha** corresponds naturally to **aane wali lagti hai**.
+- In the original Ling sentence, **jastai dekhinchha** is a different construction: **dekhinchha** contributes “looks/appears.” Preserve that element in the Hindi translation rather than silently replacing it with **lagti hai**.
+- These are **context-specific correspondences**, not universal word-for-word rules. The mapping must be checked against the full sentence and intended meaning.
+
+### Analysis procedure for future cases
+
+For every proposed Nepali–Hindi contrast:
+
+1. Record the exact target-language sentence and a natural base-language translation.
+2. Give a structure-preserving gloss separately from the natural translation.
+3. Mark surface resemblance between words, without assuming equivalence.
+4. Identify the function of each component in the complete construction.
+5. Test the proposed mapping against at least one contrasting example.
+6. Label the explanation **validated**, **provisional**, or **unresolved**. Never present an uncertain hypothesis as an established grammar rule.
+
+### Further candidates to investigate — not yet validated as examples of this phenomenon
+
+- **bhayeko** in descriptive constructions such as **nilo aankha bhayeko maanis** → “neeli aankhon wala aadmi”: compare the Nepali participial construction with Hindi **wala**, rather than assuming a literal equivalent based on resemblance.
+- **lagnu** across constructions already listed in RR, including **kati samaya lagchha?** and **malai ramailo lagchha**: determine which meanings come from the verb and which from the full construction.
+- Other existing RR patterns may be candidates, but they must be checked with contrasting sentences before being added as confirmed cases.
+
+**Course-content requirement for LearnNewLanguage:** teach the distinction between (a) surface resemblance, (b) component function in context, and (c) the natural equivalent of the whole construction. Include side-by-side examples, structure-preserving glosses, natural translations, and contrastive questions. Do not teach an unverified word-to-word mapping as fact.
