@@ -1,0 +1,211 @@
+#separator:tab
+#html:false
+#tags column:3
+pani	also	
+yo	this	
+tyo	that	
+dherai	very	
+ra	and	
+u	casual he/she	
+uni	polite/respectful he/she	
+uhaa	highly respectful he/she	
+uhaanko	his/her (respectful)	
+ma hu	I am	
+ma yaha hu	I am here	
+timi hau	You are	
+uu cha	He/she is	
+uu tyaha cha	He/she is there	
+haami chau(छौँ)	We are (location)	
+yo mero ghar ho	This is my house	
+tyo timro ghar ho	That is your house	
+mero ghar yaha chha	My house is here  Location of house - so chha.   This is my house - yo mero ghar ho. Yo=ghar, i.e. identify. So ho.	
+timro ghar tyaha cha	Your house is there	
+ma yaha chaina	I am not here	
+uu tyaha chaina	He/she is not there	
+yo mero ghar hoina	This is not my house	
+mero ghar yaha chaina	My house is not here	
+tyo timro ghar hoina	That is not your house	
+ke?	What?	
+yo ke ho	What is this?	
+tyo ke ho	What is that?	
+ko	Who?	
+Ma hu	I am (identity)	
+timi hau(हौ)	you are (identity)	
+u ho	he/she is (identity)	
+hami hau(हौँ)	We are (identity)	
+hun	They are (identity	
+हुँ-हौ-हो-हौँ-हुन्-हुनुहुन्छ	 Identity	
+छु-छौ-छ-छौँ-छन्-हुनुहुन्छ	 Location/state	
+Ma chhu	"I am (location/state)	"	
+Timi chhau	You are (location/state)	
+u cha	He/she is (location/state)	
+hami chhau छौँ	We are (location/state)	
+chan	"They are (location/state)  Apni (আপনি) = उहाँहरू (Wāhānharu)High respect / Formal plural.  Tumi (तुम्ही) = उनीहरू (Uniharu)Medium respect / Informal plural.  Tui (তুই) = तिनीहरू (Tiniharu)Low respect / Very informal plural, but it is not as harsh as tui. It translates more closely to a neutral ""those people"" or ""they"" when speaking about people of equal or lower status, or when the subjects are at a physical distance."	
+ma manche hu	I am a person	
+timi manche hau	You are a person	
+uu manche ho	He/she is a person	
+haami manche hau	We are people	
+timiharu manche hau	You people are people	
+uniharu manche hun	They are people	
+ma yaha chhu	I am here	
+timi tyaha chhau	You are there	
+uu yaha cha	He/she is here	
+haami yaha chhau	We are here	
+timiharu tyaha chhau	You people are there	
+uniharu yaha chan	They are here	
+hunchha koi samasya chhaina	OK no problem	
+bhandā	than  malāī pop sangeet bhandā rock sangeet man parchha	
+Wāhānharu kahile āunuhunchha? Uniharu kahile āunchhan? Tiniharu kahile āunchhan?	when are they coming? 	
+nikai naram	very soft / too soft	
+ठाउँ → thāũ	place	
+rāmro	good / beautiful	
+malāī, timlāī	malāī → to me timlāī → to you	
+उनीहरू यहाँ छन्, उनी यहाँ छन्	उनीहरू यहाँ छन् → They are here. उनी यहाँ छन् → He/she is here. (polite singular)  Chhan is used for both respected s/he and plural s/he	
+Tense	Past indefinite - मैले X-ेँ Past continuous - म X-्दै थिएँ Present indefinite - म X-्छु Present continuous - म X-्दै छु Present perfect - मैले X-ेको छु Future indefinite - म X-्नेछु Future continuous - म X-्दै हुनेछु	
+Do tense - garnu, gar, garnuhos 	मैले गरेँ → I did म गर्दै थिएँ → I was doing म गर्छु → I do म गर्दै छु → I am doing मैले गरेको छु → I have done म गर्नेछु → I will do म गर्दै हुनेछु → I will be doing	
+Eat tense	मैले खाएँ म खाँदै थिएँ म खान्छु म खाँदै छु मैले खाएको छु म खानेछु म खाँदै हुनेछु	
+Go tense 	गएँ, जाँदै, जान्छु, गएको, जाने  मैले गएँ → I went  म जाँदै थिएँ → I was going  म जान्छु → I go  म जाँदै छु → I am going  मैले गएको छु → I have gone  म जानेछु → I will go  म जाँदै हुनेछु → I will be going	
+Hāmīle ahilesamma kahā̃ jāne bhanera yojanā banāeko chainau.	আমরা এখনও কোথায় যাব সেটা ঠিক করিনি। bhanera= seta	
+मैले पहिले नै कार भाडामा लिनको लागि योजना बनाएको छु। maile pahile nai car bhadama linako laagi yojana banayeko chhu.	pahile nai - already 	
+Tespachhi	Then	
+ṭāpuko, ṭāpumā	ṭāpuko = of the island ṭāpumā = on/in the island	
+Tapāī ahilesamma kahilyai ṭāpumā jānubhayeko chha?	Have you ever been to an island?   ahilesamma=ab tak  kahilyai=kabhi  jaanubhayeko=gaye hain	
+Rojnu	Choose 	
+Thaaun	Place	
+तपाईले यो ठाउँ भ्रमण गर्न छुटाउनु हुन्न। tapaile yo thaaun bhraman garna chhutaaunu hunna.	You should not miss visiting this place	
+Chhutaunu	Miss 	
+Sodhnuhos	Please ask	
+मैले यो पाएँ।Mailē yō pā'ēm̐.	i have got it	
+Ke ma tapāīlāī kehi prashnaharu sodhna sakchhu?	"Can I ask you some questions?  ke = question marker (""can...?"") ma = I tapāīlāī = to you kehi = some prashnaharu = questions sodhna = to ask sakchhu = can  Literal:"	
+jānubhayeko chha 	have gone / have been (respectful)	
+Ma kun thāũ bhraman garnu parchha?	Which places should I visit?	
+Yadi tapāīlāī āpatti chhaina bhane, ma euta kura sodhna sakchhu?	If you don't mind, can I ask you something?  Yadi ... bhane = Jodi ... tahole = If ... then	
+Yadi ... bhane	Jodi ... tahole = If ... then	
+Bolna Saknu	Ma bolna sakchhu. → I can speak. Hami bolna sakchhau. → We can speak. U bolna sakchha. → He/she can speak. Uniharu bolna sakchhan. → They can speak. Tapai bolna saknuhunchha. → You can speak.   Negative: Ma bolna sakdina. → I cannot speak. Hami bolna sakdainau. → We cannot speak. U bolna sakdaina. → He/she cannot speak. Uniharu bolna sakdainan. → They cannot speak. Tapai bolna saknuhunna. → You cannot speak.	
+Saknu	I can,Ma sakchhu We can,Hami sakchhau You can (informal),Timi sakchhau You can (polite),Tapai saknuhunchha He can,U sakchha She can,U sakchhe They can,Uniharu sakchhan He/she can (respectful),Uha saknuhunchha	
+Tapailaai yo thaauma prawesh anumati chhaina.	You are not allowed to enter the place 	
+Ra yo mero ghar pani ho	And it is my home too	
+rojnu porcha 	Choose 	
+paahuna	Guests 	
+Ma kurchhu, kurinu	I wait, to Wait    I waited- Maile kurẽ. I was waiting- Ma kuriraheko thiyẽ. I wait- Ma kurchhu. I am waiting - Ma kuriraheko chhu. I have waited - Maile kureka chhu. I will wait - Ma kurhnechhu. I will be waiting - Ma kuriraheko hunechhu.	
+dai chhu = basic present continuous -iraheko chhu = ongoing/continuing action	For example: Ma gardai chhu = I am doing. Ma khadai chhu = I am eating. Ma jadai chhu = I am going. Ma kurdai chhu = I am waiting.  And: Ma gariraheko chhu = I am continuing to do. Ma khairaheko chhu = I am continuing to eat. Ma jairaheko chhu = I am continuing to go. Ma kuriraheko chhu = I am continuing to wait	
+dherai ber, dherai ber dekhi	dherai ber = a long time dherai ber dekhi = for a long time / since a long time ago  Ma dherai ber dekhi kurdai chhu	
+Parkhanu vs kurinu	parkhanu = wait for expected person/thing/event  kurinu = wait / remain waiting state of waiting	
+Ek chin vs kehi kshan	ek chhin = one moment / a little while everyday  kehi kshan = a moment / short while more formal	
+Shared room bhaneko ke ho?	What is a shared room? bhaneko = called / meaning “is”	
+Kasto khalko kotha?	 What kind of room?	
+Kaha basnu hunchha 	Where do you stay 	
+yasma, tyasma	yasma = in this tyasma = in that	
+पक्कै पनि	Sure 	
+Dhoka	Door	
+Mathi - tala	Mathi = above / on top of / upstairs. tala = below / underneath / downstairs.  tallo talla ma = on the lower floor mathillo talla ma = on the upper floor	
+Koti ota vs koti jona	how many (things/items)vs people    Kati ota kotha? = How many rooms? Kati ota kitab? = How many books? Kati ota chaahinchha? = How many are needed? Kati jana is used for people: Kati jana manchhe? = How many people?	
+Farkane ticket 	Return ticket 	
+fela parna	fela parna → to be found / to turn up / to be discovered fela alone ≠ “found” in every context parna alone ≠ “to be” or “to find”  Maile bus stand kahã fela parna sakchhu? → Mujhe bus stand kahaan mil sakta hai? → Where can I find the bus stand?	
+bhanda badi, bhanda kam	bhanda badi= se zyada=more than bhanda kam=se kam=less than	
+Huda	huda = jab ... the / jab ... tha = when being/when we were	
+Bhaisakeko chha	bhai=ho=become / happen sakeko=chuka=already completed chha=hai=is  Examples: Kaam bhaisakeko chha. → Kaam ho chuka hai. → The work is already done.  Tin din bhaisakeko chha. → Teen din ho chuke hain. → Three days have passed.  Sabai tayar bhaisakeko chha. → Sab taiyar ho chuka hai. → Everything is already ready.	
+Kahile pani vs kahile dekhi	kahile pani = kabhi bhi / ever, never  kahile dekhi = kab se / since when  Examples: Ma kahile pani Kathmandu gaeko chhaina. = Main kabhi bhi Kathmandu nahi gaya hoon. = I have never been to Kathmandu.  Ma kahile dekhi yahaã basiraheko chhu = Main kab se yahaan reh raha hoon = Since when have I been living here   kahile pani gaeko chhaina. kahile dekhi basiraheko chhu	
+iraheko chhu forms	I am going=Ma jairaheko chhu I am coming=Ma aairaheko chhu I am doing=Ma gariraheko chhu I am saying/telling=Ma bhaniraheko chhu I am speaking=Ma boliraheko chhu I am eating=Ma khaairaheko chhu I am drinking=Ma piraheko chhu I am waiting=Ma kuriraheko chhu I am watching/looking=Ma heriraheko chhu I am listening=Ma suniraheko chhu I am reading/studying=Ma padhiraheko chhu I am writing=Ma lekhiraheko chhu I am learning=Ma sikiraheko chhu I am working=Ma kaam gariraheko chhu I am living/staying=Ma basiraheko chhu I am walking=Ma hidiraheko chhu I am sitting=Ma basiraheko chhu I am standing=Ma ubhiraheko chhu I am sleeping=Ma sutiraheko chhu I am thinking=Ma sochiraheko chhu I am trying=Ma koshish gariraheko chhu I am looking for/searching=Ma khojiraheko chhu I am understanding=Ma bujhiraheko chhu	
+Tanaabma	Stressed	
+Nai, ho	No, yes 	
+Ma ramrosanga sutna sakeko chhaina	I cannot sleep well	
+nuparne	Ma januparne hunchha.=Mujhe jaana padta hai.=I have to go.  aaunuparne, bhannuparne, garnuparne, khanuparne, piunuparne, padhnuparne, basnuparne, parkhanuparne  Ma parkhanuparne hunchha.= Mujhe intezaar karna padta hai.= I have to wait.	
+Bihaana	Morning 	
+Tapailai food poison bhayako huna sakchha	Aapko food poisoning hua hua ho sakta hai  Tapailai food poison huna sakchha. = Aapko food poisoning ho sakta hai.	
+Kura garnu	kura garnu = baat karna / baat-cheet karna = to talk / to speak kura = baat garnu = karna Example: Ma kura garna chahanchhu. = Main baat karna chahta hoon. = I want to talk.	
+Timilai Juna kaha chhin thaha chha	Do you know where Juna is	
+Unlai sancho chhaina.	= Unko tabiyat theek nahin hai. = He/She is not well	
+Tara tysle madat garena	But it didn't help 	
+chhittai niko hunechha.	jaldi theek ho jaayengi.  chhittai = jaldi niko = theek hunechha = ho jaayengi / will become	
+Sancho vs niko	sancho = healthy, well, fine; general state of health/well-being niko = recovered, healed, cured; especially after being ill or injured  Uha sancho hunuhunchha. = Woh theek hain. = She is well. Uha birami hunuhunthyo, tara ahile niko hunuhunchha. = Woh beemar thi, lekin ab theek ho gayi hain. = She was ill, but she has recovered now.	
+Anuhar	Face	
+Kapaal	Hair	
+हुरी चलेका कारण मैले झ्याल बन्द गरे। huree chaleka kaaran maile jhyaal banda gare.	It is windy , so i closed the window 	
+Pachhi bhetaula 	See you later 	
+Chittai bhetnechhu		
+Ma pani parna banda bhayepachhi farkanchhu	I will return after the rain stops	
+Tapak ahile kata hunuhunchha 	Where are you now 	
+Pani rokina gariraheko chha	Rain is going to stop	
+रद्द गर्नु raddha garnu	To cancel 	
+Ke chha, thik chha? 	How have you been , doing well? 	
+Naya(n) khuleko	Newly opened 	
+Beluka	Evening 	
+Jastai	Like   तिमी परी जस्तै सुन्दर छौ। timi pari jastai sundar chau = you are beautiful like an angel.	
+उहाँ आफ्नो साथी जस्तै राम्रो देखिन्छ। unha afno sathi jastai ramrai dekhinchha	He looks good looking like his friend 	
+Malai linu anu bhayakoma thanks 	Thank you for picking me up? 	
+gare pani 	gare pani = karne par bhi / karne ke baad bhi / even after doing  gare = karke / karne ke baad  pani = bhi   Example:  Dherai koshish gare pani safal bhaina. = Bahut koshish karne par bhi safal nahi hua. = Even after trying hard, it was not successful.	
+sandhaibhari	Forever, always 	
+Kasko	Whose	
+Halasalaiko	Recent 	
+म घर पुगे पछि तिमीलाई संदेश पठाउछु। ma ghar puge pachhi timilai sandes pathauchhu.	I will send you a message after I get home	
+sakepachhi	karne ke baad	
+birsaunu	To forget 	
+Birse	Forget 	
+unle tyo keta anautho rahechha bhanin.	She said the guy was strange.   anautho= strange	
+ek-arkalai	ek-arkalai = ek-doosre ko / ek-doosre se = each other / one another  ek-arka = ek-doosra -lai = ko Example: Uniharu ek-arkalai manparauchhan. = Woh ek-doosre ko pasand karte hain. = They like each other.	
+Daha	Joulous 	
+अंगालो हाल्नु। angalo halnu	Hug	
+bhanera sodhe	bhanera sodhe = poocha ki / poochkar	
+Tyasma hale	Tyasma hale = Usmein daala = Put it in that. tyasma = usmein hale = daala (past tense of halnu, to put/insert)	
+Uha aaunubhayesamma (U aaundasamma) parkhanuhos.	Unke aane tak intezaar kijiye.	
+उमाल्नु umaalnu	Boil 	
+paanchwata andalai chha minuteko lagi wa tayaar nahudasamma umaalnuhos.	Paanchvaan anda chhah minute ke liye, ya taiyaar hone tak, ubaaliye	
+Nahudasamma	nahudasamma = hone tak (“until it becomes/is ready”)	
+रोचक rochak	Interesting 	
+kripaya tapainle tyaslaai feri dohoraaunuhunchha?	Could you repeat that please	
+सुझाव दिनु sujhaab dinu	Suggest 	
+अवसर awasar	Opportunity 	
+गुनासो गर्नु gunaaso garnu	To complain 	
+बढुवा गर्नु badhuwa garnu	To promote 	
+Samjhanuhos.	Please remember.	
+chhalfal garnu	To discuss 	
+Bholi	Tomorrow 	
+Daata bholi samma-ma samikshya garinu parchha.	Data should be reviewed by tomorrow   deta arko haptasamma bishleshan garinu parchha.	
+Jaagir	Job	
+मलाई मेरो गोप्य कुरा भन्न दिनुहोस्। malai mero gopya kura bhanna dinuhos.	Let me tell my secret. 	
+Malai garna dinuhos 	let me do	
+नाफा naafa	Profit 	
+Talab	Salary 	
+uhaan chittai nai badhuwa hunubhayo kinaki uhaansanga dherai sip chha.	He/She was promoted very quickly because he/she has a lot of skills.	
+Dhilo 	Late	
+Saano	Smaller	
+Timi haso gardaichho, hai? 	You are joking, right? 	
+Malai bastabma thaha chhai ma	I actually don't know 	
+Rukh 	Tree 	
+uttikai	utne hi  equally / just as	
+Hera 	Look	
+Yi ramro dekhinchhan	They look beautiful 	
+Yeso herda	It looks like 	
+संसारको सबैभन्दा उच्च हिमाल सगरमाथा हो। sansaarko sabaibhanda uchcha himaal sagarmatha ho.	The highest mount in the world is mount Evarest 	
+छहरा chhahara	Water fall 	
+जाडो महिनामा सबैभन्दा धेरै भ्रमण गरिने ठाउँ तातोपानी हो । Jado mahina ma sabaivanda dherai bhraman garine thau tatopani ho	The hot spring is most visited in winter 	
+टापु गर्मी महिनामा धेरै भिड हुनेगर्छ। tapu garmi mahinama dherai bhid hunegarchha.	The island is most crowded during the summer 	
+bhokayeko belama	bhookhe hone par / jab bhookha ho → when hungry.	
+पहिरो-pahiro	Landslide  भारी बर्षा पश्चात बारम्बार पहिरो जान्छ। bharee barsa paschat baraambaar pahiro jaanchha.	
+यो सहर मा प्रायः बाढी आउनुको कारण नदी छेउमा भएको ले हो । yo shahar ma praya badi aaunuko karan nadi chewma vayeko le ho	This city frequently floods because it is located near a river.  nadi chewma - nadi ke kinaare, beside the river  bhayeko le - hone ke karon	
+Kahilekahin	Sometimes 	
+aajako raat hamile chandra grahaan dekhna sakchhaun bhanne kurama malai shanka laageko chha.	I doubt that we will be able to see the lunar eclipse tonight.  bhanne kura-ma = is baat par ki  bhanne kurama = “about the proposition that…”;  malai shanka lageko chha = “I have doubts / I am doubtful.”	
+kahile kahi ma kalpana garchu ki hamro sourmandalma dui wota surya bhayeko bhaye ke hunthyo hola	Sometimes I imagine what would happen if there were two suns in our solar system.  bhayeko bhaye — “if there were.”  ke hunthyo hola = “what would happen?”	
+Aafai	Aafai = khud / apne aap, oneself,	
+Chhana 	Roof	
+Bharkharai	Just now 	
+jhyaal	Window 	
+Siranee	Pillow 	
+Lutera unko gharma pasda uni sutiraheki thiyin	"Lutera unko gharma pasda uni sutiraheki thiyin = Lutera unke ghar mein ghuste samay woh so rahi thi. Grammar point: pasda = ghuste samay  pasnu → pasda	  = ghusna → ghuste samay"	
+लुटेराले पैसा खोज्दैगर्दा पुलिसले उसलाई समात्यो। luterale paisa khojdaigarda police-le uslai samaatyo.	The burglar was looking for money when the police caught him	
+Umkanu	Escape 	
+लुटेरा पुलिसबाट उम्कन सफल भयो। lutera policebata umkana safal vayo.	The blogger could escape the police	
+cheet chornu	To cheat	
+Fohor khana	Spoiled food	
+dherai bersamma basema tapailai dhaadh dukhchha.	Bahut der tak baithne se aapki peeth dard karti hai.  Critical grammar points:  * `dherai bersamma = bahut der tak ber = samay samma = tak  * `basema` = baithne se  * `tapailai` = aapko  * `dhaadh dukhchha` = peeth dard karti hai	
+yedi maile jyada sabji khana thale vane ma dherai swastha hunechu	Agar main zyada sabzi khana shuru kar doon, toh main zyada sehatmand ho jaunga.  Grammar point:  * `yedi ... bhane` = agar ... toh  * `khana thale` = khana shuru kar doon  * `swastha hunechhu` = sehatmand ho jaunga	
+Chhito suteko bhaye malai ahile tauko dukhne thiyena.	Agar main jaldi so gaya hota, toh abhi mera sir dard nahi kar raha hota. Key pattern: suteko bhaye = so gaya hota.  dukhne: dard hona thiyena: nahi hota / nahi tha	
+maile dherai vitamin c khayeko bhaye malai fulu lagne thiyena.	If I had taken more vitamin c i would not have caught the flue	
+yedi unile dherai samaye kaam nagareko vaye, ahile unilai kaandh dukhne thiyena	If she had not worked too long she should not have shoulder pain now	
+niko hunu	To recover 	
+ma sanga dherai paisa bhayeko bhaye maile upachar gari sakeko hunthe.	Agar mere paas bahut paisa hota, toh main ilaaj karwa chuka hota.	
+tyati dherai	utna zyada.	
+Sabaibhanda swadilo	Most tasty and delicious 	
+Timi jasari ni aunuparchha	Tumhe kisi bhi tarah aana hi chahiye.	
+rissaunu	Angry	

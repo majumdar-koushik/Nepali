@@ -1,0 +1,76 @@
+#separator:tab
+#html:false
+#tags column:3
+Where do you live?	Tapai kahã basnuhunchha?	
+I live in Kolkata.	Ma Kolkata ma baschhu.	
+What are you doing?	Tapai ke gardai hunuhunchha?	
+I speak a little Nepali.	Ma ali ali Nepali bolchhu.	
+I am here for travel.	Ma bhraman ko lagi yahaã aayeko chhu	
+Where do you live?	Tapai kahã basnuhunchha?	
+What do you do?	Tapai ke garnuhunchha?	
+What are you doing?	Tapai ke gardai hunuhunchha?	
+Where did you go?	Tapai kahã jaanubhayeko thiyo?	
+Who is this?	Yo ko ho?	
+Who is he?	U ko ho?	
+Who is she?	U ko ho?	
+Where is it?	Yo kahã chha?	
+When are you going?	Tapai kahile jaanuhunchha?	
+When will you come?	Tapai kahile aaunuhunchha?	
+Why?	Kina?  কিন 	
+Why are you going?	Tapai kina jaanuhunchha?  Or   Tapai kina jaandai hunuhunchha?	
+How?	Kasari?  1st, 3rd How are you doing? - Tapai kasari hunuhunchha? chhu, chha, chhau, chhan  How do you go there? - Tapai tyahaã kasari jaanuhunchha? janchhu, janchha, janchhau, janchhan  How do you say this? - Yo kasari bhannuhunchha? bhanchhu, bhanchha, bhanchhau, bhanchhan  How can I do this? - Ma yo kasari garna sakchhu? saknuhunchha, sakchha, sakchhau, sakchhan  How can I learn Nepali? - Ma Nepali kasari sikna sakchhu? saknuhunchha, sakchha, sakchhau, sakchhan	
+How much?	Kati?	
+How long?	Kati samaya?	
+I go there.	Ma tyahaã janchhu.	
+I went there.	Ma tyahaã gayẽ.	
+I am going there.	Ma tyahaã jadai chhu.	
+I will go there.	Ma tyahaã janechhu.	
+I come here.	Ma yahaã aauchhu.	
+I came here.	Ma yahaã aayẽ.	
+I am coming here.	Ma yahaã aaudai chhu.	
+I will come here.	Ma yahaã aaunechhu.	
+What do you do?	Tapai ke garnuhunchha?	
+I work here.	Ma yahaã kaam garchhu.	
+I did it.	Maile tyo garẽ.	
+I am doing it.	Ma tyo gardai chhu.	
+I will do it.	Ma tyo garnechhu.	
+What are you doing?	Tapai ke gardai hunuhunchha?	
+I need this.	Malai yo chahinchha.	
+I want this.	Malai yo chahinchha.	
+I like this.	Malai yo man parchha.	
+I don't like this.	Malai yo man pardaina.	
+I understand.	Malai thaha chha.	
+I understand a little Nepali.	Malai ali ali Nepali bujhinchha.	
+I don't know.	Malai thaha chhaina.  থায়া   Mujhe pata nahi।	
+Please say that again.	Feri bhannuhos.	
+Can you say that again?	Feri bhanna saknuhunchha?	
+I will take this.	Ma yo linchhu.	
+Where is this place?	Yo thaũ kahã chha?	
+How do I get there?	Tyahaã kasari jaane?	
+Is it far?	Ke yo tadaa chha?	
+Is it near?	Ke yo najik chha?	
+I am looking for this place.	Ma yo thaũ khojdai chhu.	
+I do, we do, he does, they do, you do 	garchhu → garchhau → garchha → garchhan with garnuhunchha for respectful you.	
+I am waiting for a long time.	Ma dherai ber dekhi kurdai chhu.	
+What is X? 	X bhaneko ke ho? 	
+What kind of room?	Kasto khalko kotha?	
+Please repeat	Kripaya Feri bhannuhos	
+Or 	Or = wa Chiya wa coffee? = Tea or coffee? Yo wa tyo? = This or that? Tapai jaanuhunchha wa ma jaanchhu? = Will you go or shall I go?	
+Please follow me	कृपया मेरो पछी लाग्नुस्। kripaya mero pachhi laagnuhos.	
+So that there is no doubt.	Yasari kunai sanka nahos.  yasari = in this way / like this / so kunai = any / any kind of sanka = doubt nahos = may there not be / so that there is not  The key word here is nahos: hos = may there be / let there be na + hos = may there not be	
+How long does it take to reach Darjeeling?	Darjeeling pugna kati samaya lagchha?  pugna =  “pahunchne ke liye.”	
+Where can I find the bus stand?	Maile bus stand kahã fela parna sakchhu?	
+Follow the sign	Chinhako pachhi lagnuhos	
+How do you do	Ke chha	
+I am feeling bad	Malai naramro lagiraheko chha	
+what happened?	Ke  bhayo?	
+Amito eta eimatro shunlam	Amito eta eimatro shunlam = Maile yo ahile matra suneko chhu.	
+Hete jete pari?	Ma tyahaã hidhera jaan sakchhu?	
+I am scared 	मलाइ डर लागेको छ। malai dar lageko chha.	
+Help me	Malai maddat garnuhos 	
+Cool	Chiso	
+Ghamailo	Sunny	
+Freezing	Kathyangrine	
+What a miserable weather 	Kasto dukhi mausam	
+See you tomorrow 	Bholi bhetaula	
+See you soon	चाँडै vetaula  चाँडै Cām̐ḍai	
