@@ -652,6 +652,23 @@ Nepali **-le** and Hindi **-ne** both mark the agent in many perfective/past tra
 - Research reference: [Same Sentences, Different Grammars, Different Brain Responses? — Hindi and Nepali split-ergative structures](https://pmc.ncbi.nlm.nih.gov/articles/PMC13249467/).
 
 
+
+### Case 4 — **chahanchha** vs **chahinchha**: wanting vs needing
+
+| Nepali | Natural Hindi | Meaning / construction |
+|---|---|---|
+| **U chiya chahanchha.** | **Woh chai chahta/chahti hai.** | The subject wants tea. **chahanchha** is a form of **chaahanu** (“to want”). |
+| **Malai chiya chahinchha.** | **Mujhe chai chahiye.** | Tea is needed by me / I need tea. **chahinchha** expresses need or requirement; **malai** marks the person who needs it. |
+
+**What the contrast teaches**
+
+- **chahanchha** and **chahinchha** are not interchangeable forms of one meaning: the first expresses wanting; the second expresses need/requirement.
+- Notice the construction as a whole: **u** (“he/she”) is the wanter in the first sentence, while **malai** (“to/for me”) marks the experiencer/need-holder in the second.
+- Do not infer the meaning from surface resemblance alone; learn each verb and its sentence pattern together.
+
+**Status: validated for these basic meanings and examples.** More complex uses should be checked separately.
+
+
 ### Further candidates to investigate — not yet validated as examples of this phenomenon
 
 - **lagnu** across constructions already listed in RR, including **kati samaya lagchha?** and **malai ramailo lagchha**: determine which meanings come from the verb and which from the full construction.
