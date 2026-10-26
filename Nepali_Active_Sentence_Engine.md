@@ -633,9 +633,15 @@ For every proposed Nepali–Hindi contrast:
 5. Test the proposed mapping against at least one contrasting example.
 6. Label the explanation **validated**, **provisional**, or **unresolved**. Never present an uncertain hypothesis as an established grammar rule.
 
+### Case 2 — participial **bhayeko** vs Hindi **wala**
+
+- **Nilo aankha bhayeko maanis** → **neeli aankhon wala aadmi**.
+- Here **bhayeko** is part of a Nepali participial modifier before the noun. The natural Hindi construction uses **wala**; translating the component mechanically as **hua** would miss the noun-modifying function.
+- This is a construction-level correspondence, not a claim that **bhayeko** always means **wala**. RR's other examples show that **bhayeko** participates in several different constructions.
+- Grammar reference: [Nepali Relative Clauses — Participial -eko and Correlative jo-tyo](https://kidschooler.com/learn/relative-clauses).
+
 ### Further candidates to investigate — not yet validated as examples of this phenomenon
 
-- **bhayeko** in descriptive constructions such as **nilo aankha bhayeko maanis** → “neeli aankhon wala aadmi”: compare the Nepali participial construction with Hindi **wala**, rather than assuming a literal equivalent based on resemblance.
 - **lagnu** across constructions already listed in RR, including **kati samaya lagchha?** and **malai ramailo lagchha**: determine which meanings come from the verb and which from the full construction.
 - Other existing RR patterns may be candidates, but they must be checked with contrasting sentences before being added as confirmed cases.
 
