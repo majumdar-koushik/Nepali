@@ -675,3 +675,51 @@ Nepali **-le** and Hindi **-ne** both mark the agent in many perfective/past tra
 - Other existing RR patterns may be candidates, but they must be checked with contrasting sentences before being added as confirmed cases.
 
 **Course-content requirement for LearnNewLanguage:** teach the distinction between (a) surface resemblance, (b) component function in context, and (c) the natural equivalent of the whole construction. Include side-by-side examples, structure-preserving glosses, natural translations, and contrastive questions. Do not teach an unverified word-to-word mapping as fact.
+
+---
+
+# 19. Voice and verb-form system — cross-cutting topic
+
+**197. Voice, participles, and construction patterns across frequent verbs**
+
+This is a cross-cutting reference item, not a claim that every Nepali verb has a simple one-to-one active/passive pair. Build a systematic comparison table for frequent verbs, and verify each pattern before using it in lessons.
+
+## Coverage required
+
+1. **Active vs passive voice**
+   - Identify the agent/doer, action, and affected participant.
+   - Compare natural active and passive/result-state constructions where Nepali actually permits them.
+   - Distinguish a true passive from a sentence that merely describes a state or result.
+
+2. **Finite/ordinary forms vs participial forms**
+   - For frequent verbs, compare the ordinary finite form with forms such as **-eko/-eko** participles and other relevant stems.
+   - Explain how a form's role changes by construction: verb phrase, noun modifier, result/state description, or part of a larger tense/aspect construction.
+   - Do not label every participle “passive” or assume it always means “done.”
+
+3. **Wanting vs needing: chaahanu / chaahinu**
+   - **U chiya chahanchha.** → Woh chai chahta/chahti hai. (The subject wants tea.)
+   - **Malai chiya chahinchha.** → Mujhe chai chahiye. (Tea is needed by me / I need tea.)
+   - Teach the distinct verb and argument pattern, not just a spelling contrast.
+
+4. **Agent and experiencer marking**
+   - Compare relevant patterns involving **ma**, **le**, and **malai**.
+   - Explain who performs an action, who experiences a state/need, and how the grammatical pattern is expressed.
+
+5. **Hindi comparison**
+   - For each validated example, give the Nepali sentence, natural Hindi equivalent, a structure-preserving gloss, the role of each key component, and a contrasting example.
+   - Flag irregular or construction-specific patterns instead of inventing a universal rule.
+
+## Verb inventory and table format
+
+Start with high-frequency verbs already used throughout RR, including **garnu, janu, aaunu, khanu, hernu, bhannu, dinu, linu, hunu, chaahanu, chaahinu**, and expand only as examples are checked.
+
+Suggested columns:
+
+| Verb / meaning | Ordinary finite form | Participial form | Active construction | Passive or result/state construction | Hindi equivalent | Status / notes |
+|---|---|---|---|---|---|---|
+
+Leave a cell blank or mark it “not verified / not applicable” rather than forcing a form where the construction is unnatural or unconfirmed.
+
+**Validation rule:** each claimed active/passive contrast must be checked as a complete sentence pair. Record whether it is validated, provisional, or unresolved. The broad topic is a learning framework; it does not mean all verb forms have been fully documented yet.
+
+**LearnNewLanguage requirement:** model this as a cross-cutting grammar topic with reusable verb paradigms, sentence pairs, construction explanations, and contrastive tests. The app should distinguish verb form, grammatical voice, aspect/result state, and construction-level meaning.
