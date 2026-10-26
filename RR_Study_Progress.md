@@ -172,3 +172,7 @@ Item 196 now includes a third contrast: Nepali **-le** and Hindi **-ne** are sim
 ## RR synchronization — 26 October 2026 (item 196 expanded: chaahanu vs chaahinu)
 
 Added a fourth contrast to Item 196: **U chiya chahanchha** (“Woh chai chahta/chahti hai”) vs **Malai chiya chahinchha** (“Mujhe chai chahiye”). This contrasts wanting (**chaahanu**) with need/requirement (**chaahinu**) and highlights the different sentence patterns. These examples are reference material, not taught/tested items. Progress remains **13 / 196 completed — 183 remaining**.
+
+## RR synchronization — 26 October 2026 (item 197)
+
+The master RR now contains **197 numbered items**. Item 197 establishes a cross-cutting topic: voice, participles, and construction patterns across frequent verbs. Scope includes active vs passive voice, finite vs participial forms, **chaahanu / chaahinu** (wanting vs needing), agent/experiencer marking, and Nepali–Hindi construction comparisons. This is a framework for systematic verification, not a claim that all verb paradigms are complete. Reference addition only; not taught/tested. Progress remains **13 / 197 completed — 184 remaining**. Current lesson remains **ho vs chha**, item 14 ready.
