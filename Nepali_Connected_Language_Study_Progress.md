@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-013 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that yesterday the speaker read a short story about a small child; the child met a dog on the road and took it home.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. The learner correctly interpreted *katha* as “story” in this new context, demonstrating successful recognition after the vocabulary gap at R-012.
+- **English phrasing note:** “The child took the dog home” is clearer and more natural than “It brought the dog home”; use *he/she* or *the child* rather than *it* for a person. This is an English phrasing refinement, not a Nepali comprehension error.
+- **Decision:** R Stage 1 remains in progress. The learner correctly recognised *katha* in a different context. Continue varied short passages before considering progression.
+
 ### R-012 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -204,8 +212,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-012.
-- **Next exercise:** R-013, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and recycle *katha* in a different context.
+- **Last completed exercise:** R-013.
+- **Next exercise:** R-014, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
