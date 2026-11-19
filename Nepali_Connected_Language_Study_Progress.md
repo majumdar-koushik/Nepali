@@ -85,6 +85,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### T-002 — Stage 1 English-to-Nepali paragraph translation
+- **Date:** 20 November 2026
+- **Passage length:** 4 sentences.
+- **Initial learner response:** “Gayeko yaotbar ma euta music pasal gaye. Ma euta naya bansuri kinna chaye. Pasal malik le malai tin bhinna bansuri dikhaye. Malai sano wala man parchha ra tyo kine.”
+- **Final mastered version (second attempt):** “Gata aaitabar ma euta music pasal gaye. Ma euta naya bansuri kinna chahanthe. Pasal ko malik le malai tin ota farak farak bansuri dekhaunu bhayo. Malai sabai bhanda sano man paryo ra maile tyo kine.”
+- **Assessment:** Final version conveys all four sentences accurately and naturally. Corrected the time expression, desire verb (*chahanthe*), Nepali verb for “showed” (*dekhaunu bhayo*), quantity/classifier (*tin ota*), distinction word (*farak-farak*), superlative (*sabai bhanda sano*), past preference (*man paryo*) and transitive past subject marking (*maile tyo kine*). “Gata aaitabar” is understandable for “last Sunday”.
+- **Decision:** T-002 mastered after two attempts. This demonstrates mastery of this passage only; continue varied Stage 1 translation practice before judging overall stage competence.
+
+
 ### R-021 — Stage 2 written comprehension
 - **Date:** 20 November 2026
 - **Passage length:** 5 sentences.
@@ -352,8 +361,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercises:** R-020 and T-001.
-- **Next exercise:** Select the next category in a varied R/T/L order. Listening must wait until an actual audio delivery method is arranged. Select the next category in a varied order after each assessed attempt.
+- **Last completed exercises:** R-021 and T-002 (T-001 also mastered).
+- **Next exercise:** Arrange actual audio delivery for L-001 before proceeding with listening; otherwise select the next available R or T exercise in the varied rotation. Select the next category in a varied order after each assessed attempt.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
