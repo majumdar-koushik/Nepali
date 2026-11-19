@@ -78,12 +78,21 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 - **Overall:** Programme initialized; no aggregate completion percentage (components are independent).
 - **Written comprehension:** Stage 2 — in progress (advanced after R-019; Stage 1 comprehension was consistently accurate across repeated short passages, with demonstrated understanding of contextual tense choices and successful correction of a vocabulary gap).
-- **Translation:** Not started.
-- **Listening:** Not started; audio delivery method must be verified before first exercise.
+- **Translation:** Stage 1 — starting with T-001; active production has not yet been assessed.
+- **Listening:** Not started; actual audio delivery method must be arranged before L-001. Reading text will not be counted as listening.
 - **Speaking:** Parked by learner request.
 - **Current learning objective:** Build connected-language comprehension and production as preparation for graded Nepali storybooks.
 
 ## Exercise log
+
+### R-020 — Stage 2 written comprehension
+- **Date:** 20 November 2026
+- **Passage length:** 5 sentences.
+- **Learner response:** Explained that the speaker visited a small hill village for the first time yesterday; it was raining on arrival but the sky was gradually clearing; the road was narrow and winding; an elderly man showed the way to an old temple nearby; and from the temple the speaker could see the valley and the Himalayas below.
+- **Assessment:** Main meaning, sequence and all key events were understood. Two vocabulary/phrasing distinctions:
+  - *ghumauro* means winding/curving, not “curly” in the usual English sense when describing a road.
+  - *gaun pugda* means “when I reached/arrived at the village”; “when I was reaching” is not idiomatic English here.
+- **Decision:** R Stage 2 remains in progress. The learner understood the more connected descriptive passage. Future exercises will rotate among R, T and L rather than repeating reading comprehension each time.
 
 ### R-019 — Stage 1 written comprehension
 - **Date:** 20 November 2026
@@ -306,6 +315,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Vocabulary discussion:** The learner suggested replacing “snacks” with the broader word “food”. The source word *khaja* means a snack/light meal, so “snacks” is more precise here. If the intended meaning is a meal/food rather than a snack, the Nepali wording should use *khana* instead of *khaja*.
 - **Decision:** R Stage 1 remains in progress. Three successful short passages provide encouraging evidence, but continue varied Stage 1 practice before considering progression.
 
+## Mixed-category rotation decision
+
+- **Date:** 20 November 2026
+- After completing R-020, rotate one exercise at a time among R (written comprehension), T (English-to-Nepali paragraph translation) and L (actual Nepali audio comprehension), varying the order rather than following a rigid repeating sequence.
+- Maintain independent progression and assessment for each component. Do not assume reading ability predicts translation or listening ability.
+- Use different subject matter and language structures across categories; do not simply reuse the same paragraph in another modality.
+- Listening remains conditional on actual audio being available. Before counting an L exercise, arrange a genuine audio delivery method; never substitute a visible passage.
+- **R-020 completed before the rotation begins**, as requested by the learner.
+
 ## Learner feedback and programme adjustment
 
 - **Date:** 20 November 2026
@@ -315,8 +333,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-019.
-- **Next exercise:** R-020, Stage 2 written comprehension, 5–6 sentences, Roman script only; use a more varied text type and introduce richer connected ideas, vocabulary and constructions.
+- **Last completed exercise:** R-020.
+- **Next exercise:** T-001, Stage 1 English-to-Roman-Nepali paragraph translation; begin the mixed R/T/L rotation. Select the next category in a varied order after each assessed attempt.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
