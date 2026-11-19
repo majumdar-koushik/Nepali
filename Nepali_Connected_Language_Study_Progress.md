@@ -95,10 +95,19 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Decision:** Stage 1 remains in progress. One successful passage is insufficient to establish reliable comprehension. Continue with varied Stage 1 passages.
 - **Learner feedback incorporated:** Do not routinely ask 3–5 questions after a full paragraph explanation; this is redundant. Use targeted follow-up questions only when diagnostically necessary.
 
+### R-002 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that today is a day off; the learner stays at home in the morning; goes to the market at around 2 p.m. to buy vegetables; and returns home in the evening and cooks food.
+- **Assessment:** The complete meaning and sequence were understood accurately. No sentence-level comprehension error was evident.
+- **Vocabulary retrieval note:** The learner was unsure whether **beluka** meant afternoon or evening and checked Anki. The meaning was then correctly identified as **evening**. This is a vocabulary-retrieval support need, not a misunderstanding of the paragraph after checking.
+- **Useful distinction:** **bikel** = afternoon / later afternoon; **beluka** = evening. In this passage, **dui baje tira** gives the approximate time (around 2 p.m.), while **beluka** marks the later evening period.
+- **Decision:** R Stage 1 remains in progress. R-002 is a successful comprehension attempt with one vocabulary lookup; continue with varied Stage 1 material and observe whether *beluka* is recalled independently later.
+
 ## Session history and next action
 
-- **Last completed exercise:** R-001.
-- **Next exercise:** R-002, Stage 1 written comprehension, 3–4 sentences, Roman script only, familiar vocabulary with a different everyday context.
+- **Last completed exercise:** R-002.
+- **Next exercise:** R-003, Stage 1 written comprehension, 3–4 sentences, Roman script only, familiar vocabulary in a new everyday context; recycle *beluka* naturally later to check independent recall.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
