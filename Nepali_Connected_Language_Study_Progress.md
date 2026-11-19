@@ -85,6 +85,16 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-008 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that in the morning the speaker went to the park with the daughter; they saw many people; the daughter played on the swing; and after returning home she was very tired.
+- **Assessment:** The intended meaning and sequence of all four sentences were understood accurately.
+- **Material quality note:** The tutor-authored passage contained language errors in the second and third sentences. A clearer Roman Nepali version is: “Tyaha hami le dherai mancheharu dekhyau. Chhori jhulama kheli.” The learner should not be penalised for any ambiguity caused by the original wording.
+- **English phrasing note:** “Back home she was very tired” is understandable; “After returning home, she was very tired” makes the time relationship more explicit.
+- **Decision:** R Stage 1 remains in progress. The learner continues to demonstrate accurate comprehension. Tutor must proofread Nepali grammar more carefully before presenting future passages.
+
+
 ### R-007 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -152,8 +162,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-007.
-- **Next exercise:** R-008, written comprehension, 3–4 sentences, Roman script only; use a new everyday context and introduce a modestly richer connection between events.
+- **Last completed exercise:** R-008.
+- **Next exercise:** R-009, written comprehension, 3–4 sentences, Roman script only; use carefully proofread, natural Nepali and a different everyday context.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
