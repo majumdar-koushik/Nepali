@@ -85,6 +85,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-006 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained waking early, watering the garden in front of the house, the presence of many flowers, and feeling happy while looking at them.
+- **Assessment:** All four sentence meanings and their relationships were understood accurately.
+- **English phrasing notes:** “I water at the garden” should be “I water the garden” (no *at* after *water* when it takes a direct object). “I enjoy watching flowers” conveys the general idea; “I enjoy looking at the flowers” or “I feel happy when I look at the flowers” more closely reflects *phoolharu herda malai khusi lagchha*.
+- **Decision:** R Stage 1 remains in progress. Comprehension is consistently accurate across six short passages. Continue with varied everyday material and gradually increase contextual complexity.
+
+
 ### R-005 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -134,8 +143,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-005.
-- **Next exercise:** R-006, written comprehension, 3–4 sentences, Roman script only; continue connected everyday narratives with a modest increase in contextual variety.
+- **Last completed exercise:** R-006.
+- **Next exercise:** R-007, written comprehension, 3–4 sentences, Roman script only; introduce a different everyday situation and continue checking overall meaning and relationships between sentences.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
