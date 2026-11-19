@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-016 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the elder brother went to his village yesterday, would stay there for two days, spend time with his grandparents, and return home on Sunday.
+- **Assessment:** All four sentence meanings and the overall sequence/plan were understood. No comprehension errors.
+- **Tense/aspect discussion:** The learner deliberately rendered *basnu huncha* and *bitaunu huncha* using English present continuous (“is staying”, “is spending”) to express a planned/ongoing stay naturally, while rendering *farkinu huncha* as future (“will return”). In this context, future renderings (“will stay”, “will spend”) are also natural. These honorific Nepali verb forms should be interpreted in context; they are not mechanically equivalent to English present continuous or future forms.
+- **Decision:** R Stage 1 remains in progress. The learner is attending to contextual tense/aspect rather than translating forms mechanically. Continue varied passages and introduce further time-reference contrasts gradually.
+
+### R-016 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** Interpreted the subject as the grandmother rather than the older brother; understood the village visit, two-day stay, time with older family members, and Sunday return. Rendered the second and third sentences in English present continuous (“is staying”, “is spending”) and the fourth in future (“will return”), explaining that the tense changes made the meaning natural.
 - **Assessment:** Main event sequence and time references were understood, but two important kinship terms were misidentified: *dai* = older brother (not grandmother); *hajurba ra hajurama* = grandfather and grandmother/grandparents (not great-grandparents). Correct meaning: “Yesterday my older brother went to the village. He will stay there for two days. He will spend time with our grandparents. He will return home on Sunday.”
 - **Tense/aspect discussion:** *janu bhayo* is an honorific past form (“went”). *basnu huncha* and *bitaunu huncha* are honorific present-form constructions whose time reference is future in this context; they are not explicitly present-continuous forms. *farkinu huncha* is interpreted as future here because of the Sunday time reference. The learner's English present continuous for the temporary stay/activity is a natural contextual rendering, but does not establish that the Nepali forms themselves are present continuous.
