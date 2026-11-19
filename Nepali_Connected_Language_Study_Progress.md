@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-010 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that it was the learner's mother's birthday, that they called her in the morning, bought a small gift for her, and had dinner together in the evening.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “We had dinner together” is a natural contextual rendering of the final sentence.
+- **Decision:** R Stage 1 remains in progress. Continue with varied, carefully proofread short passages; do not promote based on exercise count alone.
+
 ### R-009 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -172,8 +180,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-009.
-- **Next exercise:** R-010, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and introduce a modestly richer connection between events.
+- **Last completed exercise:** R-010.
+- **Next exercise:** R-011, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and introduce a modestly richer connection between events.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
