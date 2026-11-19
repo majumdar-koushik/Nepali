@@ -85,6 +85,16 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-005 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that yesterday the speaker went to a friend's house, they had tea together, talked for some time, and the speaker returned home.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately.
+- **Connective note:** The source's final sentence begins with *ani*, which already means “then/and then”. The learner's “And then I returned home” is therefore a natural and accurate rendering, not an addition absent from the Nepali. “And I returned home” would also be grammatically possible in English, but may sound less connected in this short narrative.
+- **English phrasing note:** “We took tea together” is natural in Indian English; “we had tea together” is more widely idiomatic. “For some time” is normally written as two words.
+- **Decision:** R Stage 1 remains in progress. Comprehension is consistently accurate across these short passages. Continue with a little more variety and gradually increase contextual complexity when appropriate.
+
+
 ### R-004 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -111,7 +121,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Learner response:** Correctly explained that today is a day off; the learner stays at home in the morning; goes to the market at around 2 p.m. to buy vegetables; and returns home in the evening and cooks food.
 - **Assessment:** The complete meaning and sequence were understood accurately. No sentence-level comprehension error was evident.
 - **Vocabulary retrieval note:** The learner was unsure whether **beluka** meant afternoon or evening and checked Anki. The meaning was then correctly identified as **evening**. This is a vocabulary-retrieval support need, not a misunderstanding of the paragraph after checking.
-- **Useful distinction:** **bikel** = afternoon / later afternoon; **beluka** = evening. In this passage, **dui baje tira** gives the approximate time (around 2 p.m.), while **beluka** marks the later evening period.
+- **Useful distinction:** **beluka** = evening. In this passage, **dui baje tira** gives the approximate time (around 2 p.m.), while **beluka** marks the later evening period.
 - **Decision:** R Stage 1 remains in progress. R-002 is a successful comprehension attempt with one vocabulary lookup; continue with varied Stage 1 material and observe whether *beluka* is recalled independently later.
 
 ### R-003 — Stage 1 written comprehension
@@ -124,8 +134,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-003.
-- **Next exercise:** R-004, Stage 1 written comprehension, 3–4 sentences, Roman script only, familiar vocabulary in a new everyday context; include a clear subject/action relationship.
+- **Last completed exercise:** R-005.
+- **Next exercise:** R-006, written comprehension, 3–4 sentences, Roman script only; continue connected everyday narratives with a modest increase in contextual variety.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
