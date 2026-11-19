@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-016 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Interpreted the subject as the grandmother rather than the older brother; understood the village visit, two-day stay, time with older family members, and Sunday return. Rendered the second and third sentences in English present continuous (“is staying”, “is spending”) and the fourth in future (“will return”), explaining that the tense changes made the meaning natural.
+- **Assessment:** Main event sequence and time references were understood, but two important kinship terms were misidentified: *dai* = older brother (not grandmother); *hajurba ra hajurama* = grandfather and grandmother/grandparents (not great-grandparents). Correct meaning: “Yesterday my older brother went to the village. He will stay there for two days. He will spend time with our grandparents. He will return home on Sunday.”
+- **Tense/aspect discussion:** *janu bhayo* is an honorific past form (“went”). *basnu huncha* and *bitaunu huncha* are honorific present-form constructions whose time reference is future in this context; they are not explicitly present-continuous forms. *farkinu huncha* is interpreted as future here because of the Sunday time reference. The learner's English present continuous for the temporary stay/activity is a natural contextual rendering, but does not establish that the Nepali forms themselves are present continuous.
+- **Decision:** R Stage 1 remains in progress. Recycle *dai* and the grandparents vocabulary in a later context; continue to distinguish Nepali form from contextual English tense choices.
+
 ### R-015 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -260,8 +268,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-015.
-- **Next exercise:** R-016, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
+- **Last completed exercise:** R-016.
+- **Next exercise:** R-017, written comprehension, 3–4 sentences, Roman script only; recycle kinship vocabulary in a different context and continue varied everyday passages.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
