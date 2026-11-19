@@ -87,7 +87,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ### R-001 — Stage 1 written comprehension
 - **Date:** 19 November 2026
-- **Passage length:** 6 short clauses / approximately 6 sentences as displayed (Stage 1 target was 3–4 sentences; future passages should adhere to the stated range).
+- **Passage length:** 5 sentences (slightly above the Stage 1 target of 3–4 sentences; future passages will adhere to the stated range).
 - **Learner response:** Correctly explained waking in the morning, drinking tea, walking on the road near home for about 30 minutes, returning home, bathing and eating breakfast.
 - **Assessment:** Meaning and sequence understood accurately; all five details in the follow-up check were correct.
 - **Result:** 5/5 on the five detail checks; overall explanation accurate.
