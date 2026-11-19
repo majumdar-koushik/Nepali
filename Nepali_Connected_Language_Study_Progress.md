@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-019 — Stage 1 written comprehension
+- **Date:** 20 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that yesterday the friend was sick, the speaker went to visit him, took fruit for him, and the friend became very happy on seeing the speaker.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “I went to meet him” is understandable; “I went to visit him” is more idiomatic in this context. “He was very happy to see me” is a natural alternative to “He became very happy seeing me.”
+- **Decision:** R Stage 1 remains in progress. Continue varied short passages and assess consistency before stage progression.
+
 ### R-018 — Stage 1 written comprehension
 - **Date:** 20 November 2026
 - **Passage length:** 4 sentences.
@@ -300,7 +308,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-018.
+- **Last completed exercise:** R-019.
 - **Next exercise:** R-019, written comprehension, 3–4 sentences, Roman script only; recycle *mitho* in a different context and continue varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
