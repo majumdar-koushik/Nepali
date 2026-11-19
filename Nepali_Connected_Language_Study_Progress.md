@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-018 — Stage 1 written comprehension
+- **Date:** 20 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the mother cooked food, the family ate together, the speaker washed the dishes after eating, and the mother thanked the speaker. The learner interpreted *mitho* as “sweet”.
+- **Assessment:** Overall meaning and sequence understood. One vocabulary distinction: *mitho* means “tasty/delicious”; *guliyo* means “sweet” (taste). Thus the first sentence means “Today my mother cooked delicious food”, not necessarily sweet food.
+- **English phrasing note:** “We sat together and ate” is more natural than “We had food sitting together”. This is an English phrasing refinement, not a Nepali comprehension error.
+- **Decision:** R Stage 1 remains in progress. Recycle *mitho* in a later context to check retention; continue varied short passages.
+
 ### R-017 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -284,8 +292,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-017.
-- **Next exercise:** R-018, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
+- **Last completed exercise:** R-018.
+- **Next exercise:** R-019, written comprehension, 3–4 sentences, Roman script only; recycle *mitho* in a different context and continue varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
