@@ -77,7 +77,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ## Current programme status
 
 - **Overall:** Programme initialized; no aggregate completion percentage (components are independent).
-- **Written comprehension:** Stage 1 — in progress.
+- **Written comprehension:** Stage 2 — in progress (advanced after R-019; Stage 1 comprehension was consistently accurate across repeated short passages, with demonstrated understanding of contextual tense choices and successful correction of a vocabulary gap).
 - **Translation:** Not started.
 - **Listening:** Not started; audio delivery method must be verified before first exercise.
 - **Speaking:** Parked by learner request.
@@ -306,10 +306,17 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Vocabulary discussion:** The learner suggested replacing “snacks” with the broader word “food”. The source word *khaja* means a snack/light meal, so “snacks” is more precise here. If the intended meaning is a meal/food rather than a snack, the Nepali wording should use *khana* instead of *khaja*.
 - **Decision:** R Stage 1 remains in progress. Three successful short passages provide encouraging evidence, but continue varied Stage 1 practice before considering progression.
 
+## Learner feedback and programme adjustment
+
+- **Date:** 20 November 2026
+- After R-019, the learner identified that the repeated four-sentence everyday-activity passages had become redundant and boring. Review of R-001–R-019 confirms that the passage format and task had become too uniform.
+- **Adjustment:** Advance written comprehension to Stage 2 from R-020. Use 5–6 sentence passages with varied text types (short narratives, descriptions, experiences, opinions and explanations), more varied tense/aspect and clause structures, richer context-supported vocabulary, and more engaging subject matter. Avoid merely changing the people and activities while retaining the same simple pattern.
+- **Assessment principle:** Continue to judge comprehension accurately, but do not confuse repeated success on a narrow passage format with broad reading ability. Test transfer across different genres and constructions.
+
 ## Session history and next action
 
 - **Last completed exercise:** R-019.
-- **Next exercise:** R-020, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
+- **Next exercise:** R-020, Stage 2 written comprehension, 5–6 sentences, Roman script only; use a more varied text type and introduce richer connected ideas, vocabulary and constructions.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
