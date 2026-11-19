@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-012 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the friend came to the speaker's house and they had tea together. The learner interpreted *ramailo katha* as “a good message” and the final sentence as being happy after hearing the message.
+- **Assessment:** First two sentences understood accurately. In the final two sentences, the key noun *katha* was misinterpreted: it means “story”, not “message”. *Ramailo* means interesting/enjoyable/entertaining in this context; *sunayo* means told/narrated. The intended meaning is that the friend told the speaker an interesting story and the speaker felt very happy after hearing it.
+- **Learning point:** Distinguish *katha* (story) from a message; context alone did not prevent this vocabulary substitution. Recycle *katha* in a later passage to check retention.
+- **Decision:** R Stage 1 remains in progress. Continue varied short passages, with occasional recycling of vocabulary that has been misinterpreted.
+
 ### R-011 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -196,8 +204,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-011.
-- **Next exercise:** R-012, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and introduce a modestly richer connection between events.
+- **Last completed exercise:** R-012.
+- **Next exercise:** R-013, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and recycle *katha* in a different context.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
