@@ -88,18 +88,12 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### T-001 — Stage 1 English-to-Nepali paragraph translation
 - **Date:** 20 November 2026
 - **Passage length:** 4 sentences.
-- **Learner response:** “Hijo ma mero jhaalko najik euta sano chiriya herey. Yo euta shakha mati bosdai thiyo. Maile yoko lagi bahirma kahi pani rakhe. Kehi samay pachhi yo udera gayo.”
-- **Assessment:** All four sentences conveyed the intended events and sequence. The attempt shows a sound basic sentence structure and successful use of the past narrative in the final sentence. Corrections:
-  - *jhaalko* → *jhyal* (“window”).
-  - *chiriya* is understandable; *chari* or *charā* is a more usual everyday word for “bird”.
-  - *shakha mati* → *shaakha ma* (“on a branch”); *maathi* means “above/on top of”, while *ma* marks the location “on”.
-  - *yoko lagi* → *yasko lagi* (“for it”).
-  - *kahi pani* → *kehi pani* (“some water”); *kahi pani* means “anywhere/somewhere”, whereas *kehi pani* refers to some water.
-  - *bosdai thiyo* is understandable as “was sitting”; *basdai thiyo* is the usual form from *basnu* (“to sit/stay”).
-- **Second attempt:** “Hijo ma mero jhyal najik euta sano chara dekhe. Yo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi yo udera gayo.” Corrected *jhaalko* to *jhyal*, adopted *chara*, supplied *haanga* (“branch”), corrected *mati* to *ma*, and corrected *kahi pani* to *kehi pani*. Remaining refinement: use *tyo* consistently for the bird when referring back to it.
-- **Third attempt:** “Hijo ma mero jhyal najik euta sano chara dekhe. Tyo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi tyo udera gayo.” The reference consistency and all vocabulary/postpositions are now correct. One grammatical error remains: *ma* must be *maile* as the agent of the completed past transitive verb *dekhe*.
-- **Decision:** T Stage 1 remains in progress; T-001 is not yet mastered. Continue iterating on this same paragraph until the learner produces the complete accurate version, including the ergative marker *-le*. Do not move to another exercise yet.
-
+- **Initial learner response:** “Hijo ma mero jhaalko najik euta sano chiriya herey. Yo euta shakha mati bosdai thiyo. Maile yoko lagi bahirma kahi pani rakhe. Kehi samay pachhi yo udera gayo.”
+- **Revision 2:** “Hijo ma mero jhyal najik euta sano chara dekhe. Yo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi yo udera gayo.”
+- **Final mastered version:** “Hijo maile mero jhyal najik euta sano chara dekhe. Tyo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi tyo udera gayo.”
+- **Assessment:** The final version is correct and natural for the intended meaning. The learner corrected the window word (*jhyal*), bird word (*chara*), branch (*haanga*), location marker (*haangama*), and water phrase (*kehi pani*). The final revision also uses *maile* appropriately with the transitive past verb *dekhe*, and consistently refers back to the bird with *tyo*.
+- **Tutor correction note:** The tutor initially failed to identify and teach *haanga* (“branch”), then explicitly acknowledged the omission after the learner pointed it out. In future translation feedback, identify all missing lexical items rather than focusing only on grammar.
+- **Decision:** T-001 mastered after three attempts. This is mastery of this passage, not yet evidence of general Stage 1 translation competence. Continue with varied Stage 1 translation passages and require a fully correct natural version before moving on from any passage with significant errors.
 
 ### R-020 — Stage 2 written comprehension
 - **Date:** 20 November 2026
