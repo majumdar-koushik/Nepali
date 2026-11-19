@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-011 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the daughter woke up early that morning, had a programme at school, the speaker prepared snacks for her, and they left home at 7 a.m.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “She had a programme at school” is natural. “She had a programme in the school” is understandable, but “at school” is the more idiomatic expression for an event taking place there.
+- **Decision:** R Stage 1 remains in progress. Continue with varied short passages and modestly richer connections; progression remains based on demonstrated ability across varied material.
+
+### R-011 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** “Today morning my daughter woke up early. She had a project in the school. I prepare snacks for her. We left home at 7 am”
 - **Assessment:** The learner correctly understood the sequence: daughter woke early, something was scheduled at school, snacks were prepared, and they left home at 7 a.m. One material vocabulary distinction was missed: *karyakram* means an event/programme, not specifically a project. The source says there was an event/programme at her school.
 - **English phrasing notes:** “This morning” is more idiomatic than “today morning” in broadly international English. “I prepared snacks” matches the past-tense Nepali *tayar gare*; the learner used present tense “I prepare”. These are English phrasing/tense corrections, separate from the vocabulary miss.
