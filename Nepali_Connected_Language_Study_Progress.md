@@ -85,6 +85,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-021 — Stage 2 written comprehension
+- **Date:** 20 November 2026
+- **Passage length:** 5 sentences.
+- **Learner response:** Explained that the speaker visited an old-book shop in the city; the shop was small but contained many old books; the owner showed a book; its cover was old but the pages inside were clean; and the speaker bought it and returned home.
+- **Assessment:** All five sentence meanings, key details and event sequence were understood accurately. No Nepali comprehension errors.
+- **English phrasing note:** “A shop for old books” is understandable; “an old-book shop” is more natural and closer to the source wording. “The pages inside were clean” is slightly more idiomatic than “the inside pages were clean”. These are English naturalness refinements, not comprehension errors.
+- **Decision:** R Stage 2 remains in progress. This is one successful Stage 2 passage; continue with varied material before considering progression.
+
+
 ### T-001 — Stage 1 English-to-Nepali paragraph translation
 - **Date:** 20 November 2026
 - **Passage length:** 4 sentences.
