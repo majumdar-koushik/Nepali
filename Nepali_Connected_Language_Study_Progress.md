@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-014 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Explained that there were clouds in the sky, it had rained in the morning, the rain had stopped, and the speaker went outside and sat in the garden.
+- **Assessment:** The overall meaning and event sequence were understood. One quantity/description distinction: *dherai badal* means “many clouds” / “a lot of clouds”, not “a huge cloud”. The learner's “It had rained in the morning” accurately conveys *Bihana pani pareko thiyo*. The phrase typed as “Not rain has stopped” appears likely to be a typo for “Now the rain has stopped”; if so, it accurately conveys *Ahile pani parna chhodyo*.
+- **English phrasing note:** “There are a lot of clouds in the sky today” is natural. “I went outside and sat in the garden” is accurate.
+- **Decision:** R Stage 1 remains in progress. Continue varied short passages, monitoring precise vocabulary distinctions while retaining the learner's strong grasp of overall meaning.
+
 ### R-013 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -212,8 +220,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-013.
-- **Next exercise:** R-014, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
+- **Last completed exercise:** R-014.
+- **Next exercise:** R-015, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
