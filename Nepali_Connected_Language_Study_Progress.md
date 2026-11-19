@@ -104,10 +104,18 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Useful distinction:** **bikel** = afternoon / later afternoon; **beluka** = evening. In this passage, **dui baje tira** gives the approximate time (around 2 p.m.), while **beluka** marks the later evening period.
 - **Decision:** R Stage 1 remains in progress. R-002 is a successful comprehension attempt with one vocabulary lookup; continue with varied Stage 1 material and observe whether *beluka* is recalled independently later.
 
+### R-003 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly understood that the speaker is at home, the younger brother goes to school, and the speaker prepares food for him. The final sentence was rendered as “He takes snacks with me after returning home.”
+- **Assessment:** First three sentences understood accurately. In the final sentence, **hami sangai khaja khanchhau** means “we eat snacks together”; the learner's wording did not preserve the subject/action relationship (it is not that the brother takes snacks with the speaker).
+- **Vocabulary note:** **khaja** means a snack or light meal; **khana** means food/a meal and is the more general word. Replacing *khaja* with *khana* would change the intended meaning from having a snack together to eating a meal together. Both are valid depending on the intended context.
+- **Decision:** R Stage 1 remains in progress. Overall comprehension is developing; continue Stage 1 and reinforce identifying who does what in connected sentences.
+
 ## Session history and next action
 
-- **Last completed exercise:** R-002.
-- **Next exercise:** R-003, Stage 1 written comprehension, 3–4 sentences, Roman script only, familiar vocabulary in a new everyday context; recycle *beluka* naturally later to check independent recall.
+- **Last completed exercise:** R-003.
+- **Next exercise:** R-004, Stage 1 written comprehension, 3–4 sentences, Roman script only, familiar vocabulary in a new everyday context; include a clear subject/action relationship.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
