@@ -111,3 +111,71 @@ The destination is independent reading/listening to free Nepali stories, not mer
 - children's/simple-reader level through progressively more mature narrative material.
 
 Do not claim a resource has a Roman transcript or audio until that specific resource has been checked. Reading/listening to a story may be used as broad passive comprehension; unfamiliar words do not automatically become active-study items.
+
+
+## Authentic storybook library — tracked resources
+
+**Purpose:** These are the initial real-world reading/listening libraries for the long-term goal. They are resources to work through selectively, not a requirement to complete every story. The tutor must preserve the source's actual features and must not assume every story has audio or Roman-script text.
+
+### Resource A — Storybooks Himalaya
+- **Website:** https://global-asp.github.io/storybooks-himalaya/
+- **Verified collection size:** 40 stories.
+- **Publisher description:** Free open educational resource; the 40 stories originate from African Storybook and are made available in Nepali, Tibetan and other Himalayan languages.
+- **Levels:** Site exposes Level 1 through Level 5 filters.
+- **Text/audio:** Story text and audio are supported. The site's instructions explicitly warn that not every story has audio in every language. Audio language may need to be changed separately from text language.
+- **Language options shown:** Nepali, Tibetan, English, Hindi, Mandarin and Urdu.
+- **Known example titles visible on the home page:** “Mausam ko Kitab” (Level 1); “Hajurama ra Kerako Jadu” (Level 4). The site lists 40 total, but the full title inventory has not yet been extracted; do not treat these two examples as the complete catalogue.
+- **Learning role:** Primary candidate for graded reading/listening because it has explicit levels and a language/audio switch.
+- **Roman script:** The website's listed text-language options do not establish that it supplies Roman Nepali. If needed, tutor may prepare a Roman transcription from the Nepali text, checking it against the source and preserving paragraph alignment.
+- **How to use:** Open a story; select Nepali for text; separately select Nepali for audio where available; use the level filter to select material. Check the audio controls for each story rather than assuming availability.
+
+### Resource B — Hamro Ramailo Kathaharu (OLE Nepal)
+- **Website:** https://katha.olenepal.org/
+- **Project information:** https://olenepal.org/digital-learning-solutions/hamro-ramailo-kathaharu/
+- **Verified collection size:** 50 stories, sourced from communities across Nepal.
+- **Format:** Animated/audio-visual stories with illustrations and interactive elements; supports listening to stories and early literacy activities.
+- **Language:** OLE Nepal's current description says currently available in Nepali; multilingual adaptation is described as a possibility, not an existing English/Roman transcript.
+- **Audience/use:** Early learners and emergent literacy/early-grade skills.
+- **Known story titles featured on OLE Nepal's information page:** “Ama Chamai”; “Ma Pani Sakxu”; “Ma kina school jane ra?” The public information page does not expose a complete list of all 50 titles. Do not invent the remaining titles.
+- **Learning role:** Strong candidate for listening practice and exposure to locally sourced Nepali narratives. The tutor may need to prepare a Roman transcript after the learner's listening attempt, if the story's audio/text can be accessed.
+- **Roman/English transcript:** Not confirmed as a supplied feature. Do not imply that one exists.
+
+### Resource C — Hamro Barnamala: Nepali Stories for Kids
+- **Website:** https://hamrobarnamala.com/stories
+- **Verified collection size:** 59 stories (the live story index currently states 59; use this verified count, not the conflicting count of 100 shown in an earlier search snippet).
+- **Audience:** Children's stories, described for ages 3–12.
+- **Format:** Bilingual Nepali-English stories, presented paragraph-by-paragraph in Nepali and English.
+- **Script:** Nepali story text is displayed in Devanagari with English translation. Roman Nepali is not advertised as a supplied text format; tutor can prepare Roman transcription when required.
+- **Difficulty:** Individual entries are labelled Easy, Medium or Hard and grouped by topic.
+- **Audio:** The page mentions audio pronunciation in the app, but full story narration/audio for all 59 stories is not verified. Check each story/app feature before assigning a listening exercise.
+- **Known easy titles from the index:** “The Kathmandu Traffic Cat”; “The Rhino and the Bird”; “The Sun and the Wind”; “The Festival of Lights”; “The Fun of Holi”; “The Lion and the Mouse”; “The Paper Boat”; “The Sweet Mangoes”; “The Yak's Bell”; “The Kind Elephant”; “The Lazy Bee”; “Grandfather's Glasses”; “The Wise Grandmother”; “The Ant and the Grasshopper”; “The Hare and the Tortoise”; “The Ant and the Pigeon”; “The Clever Mouse”; “The Stubborn Goat”; “The Boy Who Cried Tiger”; “The Boy Who Cried Wolf”; “The Fox and the Grapes”; “The Greedy Dog”; “The Thirsty Crow”; “The Golden Fish”; “The Momo Party”.
+- **Other listed titles:** “The Brave Little Sherpa”; “The Danphe's Dance”; “The Red Panda's Bamboo”; “The Dancing Peacock”; “The Old Banyan Tree”; “The Dashain Kite”; “The Horse of Mustang”; “The Magic Dhaka Topi”; “The Cloud Weaver”; “The Magical Flute”; “The Potter of Bhaktapur”; “The Talking Madal”; “The Yeti's Gift”; “The Village Fair”; “The Farmer and the Sparrow”; “The Five Fingers”; “The Fox and the Stork”; “The Monkey and the Crocodile”; “The Blind Men and the Elephant”; “The Determined Frog”; “The Four Harmonious Friends”; “The Two Cats and the Monkey”; “The Brave Gorkhali Boy”; “The Brave Rabbit”; “The Golden Harvest”; “The Magic Kheer Pot”; “The Stone Soup”; “The Clever Jackal”; “The Cracked Pot”; “The First Rhododendron”; “The Singing River”; “The Four Friends”; “The Lost Tourist”; “The Woodcutter and His Axe”.
+- **Learning role:** Useful for reading because English meaning is available alongside Nepali paragraph by paragraph. Select Easy entries first, then Medium and Hard only when demonstrated comprehension supports progression.
+
+### Resource verification rules
+1. The counts above are based on the currently inspected resource pages: Storybooks Himalaya 40; OLE Nepal HRK 50; Hamro Barnamala 59.
+2. Storybooks Himalaya's full 40-title list and OLE Nepal's full 50-title list are not exposed in the inspected index pages. Their inventories remain incomplete; retrieve titles from the live collections as needed. Never fabricate missing titles.
+3. Hamro Barnamala's story index currently displays 59 entries. The 59 titles should be treated as the current catalogue, subject to future website changes.
+4. Features differ by resource: do not claim universal Roman text, English translation, or full-story audio across all collections.
+5. Recheck availability and interface behaviour when assigning a specific story, because websites can change.
+
+## Seven-step authentic story learning workflow
+
+Apply these steps to a selected story, adapting or omitting a modality only when the resource genuinely lacks it. Do not show answers/transcripts prematurely.
+
+1. **Select and prepare:** Choose a story appropriate to the learner's demonstrated level. Record resource, story title, source level/difficulty, URL, paragraph count if known, and whether Nepali text, English translation, Roman transcription and Nepali audio are actually available.
+2. **Roman Nepali reading:** Present the story or a manageable section in Roman Nepali only. Do not display the English translation before the learner's attempt.
+3. **Learner explains meaning:** Learner gives an English account of the complete section in their own words. Do not routinely add redundant questions after a complete explanation.
+4. **Assess reading comprehension:** Evaluate main idea, events, sequence, key details, cause/effect and inferred meaning as appropriate. Identify what was missed or misunderstood; ask targeted questions only when useful.
+5. **Listening attempt:** Where Nepali audio exists, have the learner listen without seeing the transcript first. Learner explains what they understood in English. Never count reading as listening. If no audio exists, record listening as unavailable for that story and use another resource/story for the listening component.
+6. **Reveal transcript and explain gaps:** Only after the listening attempt, provide the verified Roman Nepali transcript aligned to the audio and explain relevant words/expressions the learner could not recognise. If the source text is Devanagari, derive the Roman version from the actual source, not from guesswork.
+7. **Compare and record:** Compare reading and listening comprehension, identify whether gaps came from vocabulary, grammar, connected speech, speed or attention (only where evidence supports the diagnosis), record useful new passive vocabulary in context if requested, and update the exercise log and next-story decision.
+
+**Important:** English translation is a support/check after the learner's attempt, not a substitute for Nepali comprehension. The aim is to understand Nepali directly, with Roman script as the chosen reading support.
+
+## Initial resource selection decision
+
+- **First resource to trial:** Storybooks Himalaya, starting with a Level 1 story. “Mausam ko Kitab” is the visible Level 1 example on the home page; verify its Nepali text and audio availability before using it.
+- **Parallel listening resource:** OLE Nepal's Hamro Ramailo Kathaharu, because it is explicitly audio-visual and Nepali-only at present.
+- **Bilingual reading resource:** Hamro Barnamala, starting with an Easy story, using its English paragraph translation only after the learner attempts Nepali.
+- Do not start all three collections simultaneously. Trial one story at a time and retain independent reading and listening progression.
