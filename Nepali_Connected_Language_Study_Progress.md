@@ -78,12 +78,27 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 - **Overall:** Programme initialized; no aggregate completion percentage (components are independent).
 - **Written comprehension:** Stage 2 — in progress (advanced after R-019; Stage 1 comprehension was consistently accurate across repeated short passages, with demonstrated understanding of contextual tense choices and successful correction of a vocabulary gap).
-- **Translation:** Stage 1 — starting with T-001; active production has not yet been assessed.
+- **Translation:** Stage 1 — in progress; T-001 assessed. Basic sentence construction and event sequence were successful; review location marking (*ma*), demonstratives/possessives (*tyo/yasko*), and quantity/location distinction (*kehi/kahi*) in context.
 - **Listening:** Not started; actual audio delivery method must be arranged before L-001. Reading text will not be counted as listening.
 - **Speaking:** Parked by learner request.
 - **Current learning objective:** Build connected-language comprehension and production as preparation for graded Nepali storybooks.
 
 ## Exercise log
+
+### T-001 — Stage 1 English-to-Nepali paragraph translation
+- **Date:** 20 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** “Hijo ma mero jhaalko najik euta sano chiriya herey. Yo euta shakha mati bosdai thiyo. Maile yoko lagi bahirma kahi pani rakhe. Kehi samay pachhi yo udera gayo.”
+- **Assessment:** All four sentences conveyed the intended events and sequence. The attempt shows a sound basic sentence structure and successful use of the past narrative in the final sentence. Corrections:
+  - *jhaalko* → *jhyal* (“window”).
+  - *chiriya* is understandable; *chari* or *charā* is a more usual everyday word for “bird”.
+  - *shakha mati* → *shaakha ma* (“on a branch”); *maathi* means “above/on top of”, while *ma* marks the location “on”.
+  - *yoko lagi* → *yasko lagi* (“for it”).
+  - *kahi pani* → *kehi pani* (“some water”); *kahi pani* means “anywhere/somewhere”, whereas *kehi pani* refers to some water.
+  - *bosdai thiyo* is understandable as “was sitting”; *basdai thiyo* is the usual form from *basnu* (“to sit/stay”).
+- **Suggested natural version:** “Hijo ma mero jhyal najik euta sano chari dekhe. Tyo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi tyo udera gayo.”
+- **Decision:** T Stage 1 remains in progress. This is the first assessed production attempt; continue with varied short translations before judging consistency or advancing.
+
 
 ### R-020 — Stage 2 written comprehension
 - **Date:** 20 November 2026
@@ -333,8 +348,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-020.
-- **Next exercise:** T-001, Stage 1 English-to-Roman-Nepali paragraph translation; begin the mixed R/T/L rotation. Select the next category in a varied order after each assessed attempt.
+- **Last completed exercises:** R-020 and T-001.
+- **Next exercise:** Select the next category in a varied R/T/L order. Listening must wait until an actual audio delivery method is arranged. Select the next category in a varied order after each assessed attempt.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
