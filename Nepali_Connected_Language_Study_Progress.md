@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-014 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that there were many clouds in the sky today, it had rained in the morning, the rain had stopped, and the speaker went outside and sat in the garden.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. “No rain has stopped” appears to be a typing error for “Now the rain has stopped”; assessed on the clear intended meaning in context.
+- **English phrasing note:** “Now the rain has stopped” or “It has stopped raining now” is natural. “I went outside and sat in the garden” is a natural rendering of the final sentence.
+- **Decision:** R Stage 1 remains in progress. Continue varied short passages; comprehension remains accurate across most recent exercises, with the R-012 vocabulary gap successfully addressed in R-013.
+
+### R-014 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** Explained that there were clouds in the sky, it had rained in the morning, the rain had stopped, and the speaker went outside and sat in the garden.
 - **Assessment:** The overall meaning and event sequence were understood. One quantity/description distinction: *dherai badal* means “many clouds” / “a lot of clouds”, not “a huge cloud”. The learner's “It had rained in the morning” accurately conveys *Bihana pani pareko thiyo*. The phrase typed as “Not rain has stopped” appears likely to be a typo for “Now the rain has stopped”; if so, it accurately conveys *Ahile pani parna chhodyo*.
 - **English phrasing note:** “There are a lot of clouds in the sky today” is natural. “I went outside and sat in the garden” is accurate.
