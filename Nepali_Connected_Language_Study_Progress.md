@@ -96,8 +96,9 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
   - *yoko lagi* → *yasko lagi* (“for it”).
   - *kahi pani* → *kehi pani* (“some water”); *kahi pani* means “anywhere/somewhere”, whereas *kehi pani* refers to some water.
   - *bosdai thiyo* is understandable as “was sitting”; *basdai thiyo* is the usual form from *basnu* (“to sit/stay”).
-- **Suggested natural version:** “Hijo ma mero jhyal najik euta sano chari dekhe. Tyo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi tyo udera gayo.”
-- **Decision:** T Stage 1 remains in progress. This is the first assessed production attempt; continue with varied short translations before judging consistency or advancing.
+- **Second attempt:** “Hijo ma mero jhyal najik euta sano chara dekhe. Yo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi yo udera gayo.” Corrected *jhaalko* to *jhyal*, adopted *chara*, supplied *haanga* (“branch”), corrected *mati* to *ma*, and corrected *kahi pani* to *kehi pani*. Remaining refinement: use *tyo* consistently for the bird when referring back to it.
+- **Third attempt:** “Hijo ma mero jhyal najik euta sano chara dekhe. Tyo euta haangama basdai thiyo. Maile yasko lagi bahira kehi pani rakhe. Kehi samay pachhi tyo udera gayo.” The reference consistency and all vocabulary/postpositions are now correct. One grammatical error remains: *ma* must be *maile* as the agent of the completed past transitive verb *dekhe*.
+- **Decision:** T Stage 1 remains in progress; T-001 is not yet mastered. Continue iterating on this same paragraph until the learner produces the complete accurate version, including the ergative marker *-le*. Do not move to another exercise yet.
 
 
 ### R-020 — Stage 2 written comprehension
