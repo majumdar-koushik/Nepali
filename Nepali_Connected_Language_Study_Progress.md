@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-017 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the son returned early from school, got a new book at school, showed it to the speaker after coming home, and started reading it in the evening.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “He got a new book at school” is more idiomatic than “in the school” for this context. The learner correctly interpreted *padhna thalyo* as “started reading”, reinforcing the expression discussed in R-009.
+- **Decision:** R Stage 1 remains in progress. Comprehension remains accurate across varied short passages; continue varied material before considering progression.
+
 ### R-016 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -276,7 +284,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-016.
+- **Last completed exercise:** R-017.
 - **Next exercise:** R-017, written comprehension, 3–4 sentences, Roman script only; recycle kinship vocabulary in a different context and continue varied everyday passages.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
