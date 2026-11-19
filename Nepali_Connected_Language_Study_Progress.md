@@ -85,6 +85,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-015 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the speaker went to the market, met an old friend there, talked for a long time, and later returned home together with the friend.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No Nepali comprehension errors.
+- **English phrasing note:** “I went the market” needs the preposition *to*: “I went to the market.” This is an English grammar correction, not a Nepali comprehension error.
+- **Decision:** R Stage 1 remains in progress. Continue with varied short passages and assess consistency across vocabulary and constructions before progression.
+
 ### R-014 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -244,8 +252,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-014.
-- **Next exercise:** R-015, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
+- **Last completed exercise:** R-015.
+- **Next exercise:** R-016, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
