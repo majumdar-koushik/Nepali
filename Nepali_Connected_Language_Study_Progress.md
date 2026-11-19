@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-018 — Stage 1 written comprehension
 - **Date:** 20 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that the mother cooked delicious food, everyone sat together and ate, the speaker washed the dishes after the meal, and the mother thanked the speaker.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “We had food sitting together” conveys the meaning; “We sat together and ate” is more natural English. This is a phrasing refinement, not a comprehension error.
+- **Decision:** R Stage 1 remains in progress. Continue varied short passages and assess consistency before stage progression.
+
+### R-018 — Stage 1 written comprehension
+- **Date:** 20 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** Correctly explained that the mother cooked food, the family ate together, the speaker washed the dishes after eating, and the mother thanked the speaker. The learner interpreted *mitho* as “sweet”.
 - **Assessment:** Overall meaning and sequence understood. One vocabulary distinction: *mitho* means “tasty/delicious”; *guliyo* means “sweet” (taste). Thus the first sentence means “Today my mother cooked delicious food”, not necessarily sweet food.
 - **English phrasing note:** “We sat together and ate” is more natural than “We had food sitting together”. This is an English phrasing refinement, not a Nepali comprehension error.
