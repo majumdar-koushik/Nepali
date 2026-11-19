@@ -107,10 +107,10 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-003 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
-- **Learner response:** Correctly understood that the speaker is at home, the younger brother goes to school, and the speaker prepares food for him. The final sentence was rendered as “He takes snacks with me after returning home.”
-- **Assessment:** First three sentences understood accurately. In the final sentence, **hami sangai khaja khanchhau** means “we eat snacks together”; the learner's wording did not preserve the subject/action relationship (it is not that the brother takes snacks with the speaker).
-- **Vocabulary note:** **khaja** means a snack or light meal; **khana** means food/a meal and is the more general word. Replacing *khaja* with *khana* would change the intended meaning from having a snack together to eating a meal together. Both are valid depending on the intended context.
-- **Decision:** R Stage 1 remains in progress. Overall comprehension is developing; continue Stage 1 and reinforce identifying who does what in connected sentences.
+- **Learner response:** Correctly explained that the speaker is at home; the younger brother goes to school; the speaker prepares snacks for him; and they eat snacks together after he returns home.
+- **Assessment:** All four sentences and their sequence were understood accurately. “We take snacks together” is a natural English rendering of the intended meaning, although “we eat snacks together” is more explicit.
+- **Vocabulary discussion:** The learner suggested replacing “snacks” with the broader word “food”. The source word *khaja* means a snack/light meal, so “snacks” is more precise here. If the intended meaning is a meal/food rather than a snack, the Nepali wording should use *khana* instead of *khaja*.
+- **Decision:** R Stage 1 remains in progress. Three successful short passages provide encouraging evidence, but continue varied Stage 1 practice before considering progression.
 
 ## Session history and next action
 
