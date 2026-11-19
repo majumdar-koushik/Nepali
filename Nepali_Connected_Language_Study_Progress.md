@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-014 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that there were many clouds in the sky, it had rained in the morning, the rain had now stopped, and the speaker went outside and sat in the garden.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** “Now the rain has stopped” and “Now it has stopped raining” are both natural. The learner's “Now rain has stopped” is understandable; adding “the” or using the verb phrase “stopped raining” makes it more idiomatic.
+- **Decision:** R Stage 1 remains in progress. Continue with varied short passages and observe consistency across different vocabulary and constructions.
+
+### R-014 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** Correctly explained that there were many clouds in the sky today, it had rained in the morning, the rain had now stopped, and the speaker went outside and sat in the garden.
 - **Assessment:** All four sentence meanings and their sequence were understood accurately. No Nepali comprehension errors.
 - **English phrasing note:** The first Nepali sentence uses present *chhan* (“there are”), so “There are many clouds in the sky today” is the closest tense match; “Today there were many clouds” is understandable if narrating an earlier observation. “Now the rain has stopped” is slightly more idiomatic than “Now rain has stopped”. These are English phrasing/tense refinements, not comprehension failures.
