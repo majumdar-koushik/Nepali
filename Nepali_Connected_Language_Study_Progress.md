@@ -85,6 +85,16 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-004 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** “Today my son has not gone to school. He has caught light fever. I have told him to take rest. He is home the whole day.”
+- **Assessment:** The learner understood the situation and all four sentence meanings: the son is not going to school today, he has a slight fever, the speaker tells him to rest, and he stays at home all day. The English tense/aspect was adjusted to sound natural in context; this is acceptable for a meaning-based comprehension explanation.
+- **Tense/aspect observation:** The learner correctly noticed that the Nepali passage uses *jadaina*, *bhanchhu* and *baschha* in present-form constructions, while *aayeko chha* is a present-perfect/resultative construction. English may naturally render the context as “hasn't gone today”, “has told him”, and “is staying home all day”. These English choices do not mean the Nepali forms are mechanically equivalent to English past or present perfect. The exact time reference is partly supplied by context. Preserve this distinction when discussing tense; do not mark a natural contextual paraphrase as a comprehension error.
+- **English phrasing note:** “He has caught light fever” is understandable but less idiomatic than “He has a slight fever” or “He has come down with a slight fever.” This is an English naturalness point, not a Nepali comprehension error.
+- **Decision:** R Stage 1 remains in progress. Comprehension was accurate; continue with varied passages and gradually introduce more tense/context contrasts.
+
+
 ### R-001 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 5 sentences (slightly above the Stage 1 target of 3–4 sentences; future passages will adhere to the stated range).
