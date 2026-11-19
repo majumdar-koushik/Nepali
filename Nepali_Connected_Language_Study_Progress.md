@@ -85,6 +85,16 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-009 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that there were many books in the shop, the speaker bought a good book, brought it home and placed it on the table, then began reading it after dinner at night.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately.
+- **Vocabulary/structure note:** The learner identified *padhna thale* (“began/started reading”) and compared it with *padhi sake* (“finished reading”). These express opposite phases of an activity—beginning versus completion—though they are not strict grammatical opposites. The learner added the distinction to Anki.
+- **English phrasing note:** “After coming home, I put that book on the table” is a natural rendering; “kept” is also understandable in Indian English.
+- **Decision:** R Stage 1 remains in progress. Comprehension is consistently accurate across varied short passages. Continue with natural, carefully proofread material and modestly richer connected ideas.
+
+
 ### R-008 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -162,8 +172,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-008.
-- **Next exercise:** R-009, written comprehension, 3–4 sentences, Roman script only; use carefully proofread, natural Nepali and a different everyday context.
+- **Last completed exercise:** R-009.
+- **Next exercise:** R-010, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and introduce a modestly richer connection between events.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
