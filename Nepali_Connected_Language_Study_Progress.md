@@ -88,6 +88,14 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ### R-015 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that today the speaker went to the market, met an old friend there, talked for a long time, and later returned home together with the friend.
+- **Assessment:** All four sentence meanings and their sequence were understood accurately. No comprehension errors.
+- **English phrasing note:** The learner's wording is natural and accurately conveys *dherai ber* (“for a long time”) and *pachi* (“later/afterwards”).
+- **Decision:** R Stage 1 remains in progress. Continue with varied short passages and assess consistency across different everyday vocabulary and constructions.
+
+### R-015 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
 - **Learner response:** Correctly explained that the speaker went to the market, met an old friend there, talked for a long time, and later returned home together with the friend.
 - **Assessment:** All four sentence meanings and their sequence were understood accurately. No Nepali comprehension errors.
 - **English phrasing note:** “I went the market” needs the preposition *to*: “I went to the market.” This is an English grammar correction, not a Nepali comprehension error.
