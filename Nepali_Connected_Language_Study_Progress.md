@@ -91,7 +91,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Learner response:** Explained that the speaker visited a small hill village for the first time yesterday; it was raining on arrival but the sky was gradually clearing; the road was narrow and winding; an elderly man showed the way to an old temple nearby; and from the temple the speaker could see the valley and the Himalayas below.
 - **Assessment:** Main meaning, sequence and all key events were understood. Two vocabulary/phrasing distinctions:
   - *ghumauro* means winding/curving, not “curly” in the usual English sense when describing a road.
-  - *gaun pugda* means “when I reached/arrived at the village”; “when I was reaching” is not idiomatic English here.
+  - *gaun pugda* means “when/upon reaching the village”; “when I reached the village” is idiomatic English. The learner correctly noted that *pugera* is a different form, commonly “having reached/after reaching”. Clarification: *-da* marks the time/circumstance of an event and can refer to the moment of arrival; it does not necessarily mean the journey was still in progress. *-era* presents the action as completed and linked to the following clause. For the intended meaning “it was raining when I arrived”, *gaun pugda pani parirako thiyo* is appropriate. If the intended meaning is explicitly “after I had reached the village, it was raining”, an explicit sequence marker such as *gaun pugisakepachi* can make that relationship clearer.
 - **Decision:** R Stage 2 remains in progress. The learner understood the more connected descriptive passage. Future exercises will rotate among R, T and L rather than repeating reading comprehension each time.
 
 ### R-019 — Stage 1 written comprehension
