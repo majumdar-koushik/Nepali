@@ -85,6 +85,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-007 — Stage 1 written comprehension
+- **Date:** 19 November 2026
+- **Passage length:** 4 sentences.
+- **Learner response:** Correctly explained that it rained in the afternoon, the speaker could not go to the market, the daughter stayed at home and read books, and the family had dinner together in the evening.
+- **Assessment:** All four sentence meanings and the causal/event sequence were understood accurately. The learner's alternative “My daughter stayed home and read books” is a natural and accurate rendering of *gharmai basera kitab padhin*.
+- **Contextual interpretation:** “We had dinner together” is a natural contextual rendering of *beluka hami sangai khana khayau*; more literally, it means that they ate a meal together in the evening.
+- **Decision:** R Stage 1 remains in progress. Comprehension is consistently accurate across varied short passages. Continue to vary contexts and introduce slightly richer connections without rushing stage promotion.
+
+
 ### R-006 — Stage 1 written comprehension
 - **Date:** 19 November 2026
 - **Passage length:** 4 sentences.
@@ -143,8 +152,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercise:** R-006.
-- **Next exercise:** R-007, written comprehension, 3–4 sentences, Roman script only; introduce a different everyday situation and continue checking overall meaning and relationships between sentences.
+- **Last completed exercise:** R-007.
+- **Next exercise:** R-008, written comprehension, 3–4 sentences, Roman script only; use a new everyday context and introduce a modestly richer connection between events.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
