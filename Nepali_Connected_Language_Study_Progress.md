@@ -285,7 +285,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ## Session history and next action
 
 - **Last completed exercise:** R-017.
-- **Next exercise:** R-017, written comprehension, 3–4 sentences, Roman script only; recycle kinship vocabulary in a different context and continue varied everyday passages.
+- **Next exercise:** R-018, written comprehension, 3–4 sentences, Roman script only; continue with carefully proofread everyday Nepali and varied everyday vocabulary.
 - **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
