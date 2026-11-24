@@ -88,6 +88,15 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Exercise log
 
+### R-022 — Stage 2 reading comprehension
+- **Date:** 24 November 2026
+- **Passage length:** 6 sentences.
+- **Learner response:** Understood that one of the speaker's friends went trekking in the hills, started early in the morning, encountered bad weather and rain higher up, waited in a nearby shack until the rain stopped, and resumed the journey afterwards.
+- **Assessment:** Main storyline and event sequence were understood. One complete sentence was missed: on the way, the friend came across a small waterfall where some people were taking photographs. One location/time distinction needs attention: *ali mathi pugda* means “when/upon reaching a little higher up”, not “a little after reaching there”. The final sentence was substantially understood; *matra* adds “only/not until” emphasis: only after the rain stopped did he resume the journey.
+- **Useful vocabulary:** *jharana* = waterfall; *tasbir khichdai thiye* = were taking photographs; *ali mathi pugda* = when reaching a little higher up; *matra* = only/just.
+- **Decision:** R Stage 2 remains in progress. Recycle the missed waterfall/photo detail and the *pugda* location/time construction in a later varied reading passage; do not infer broad mastery from this attempt.
+
+
 ### T-002 — Stage 1 English-to-Nepali paragraph translation
 - **Date:** 20 November 2026
 - **Passage length:** 4 sentences.
