@@ -1,6 +1,6 @@
 # Nepali Connected-Language Study Progress
 
-**Programme:** Paragraph comprehension, translation, listening and later speaking  
+**Programme:** Reading, writing, listening and speaking (R/W/L/S)  
 **Planned horizon:** Approximately six months; progress is performance-based, not calendar-based.  
 **Primary long-term goal:** Read free Nepali online storybooks, beginning with children's-level material and progressing gradually toward more mature/adult-level stories, using Roman-script transcripts, Nepali audio, or both.
 
@@ -19,12 +19,14 @@
 
 | Component | ID prefix | Scope |
 |---|---|---|
-| Written paragraph comprehension | R | Read Roman Nepali; learner explains meaning in English |
-| English-to-Nepali paragraph translation | T | Learner translates connected English passages into Roman Nepali |
-| Listening paragraph comprehension | L | Hear Nepali audio without seeing transcript; learner explains meaning in English |
-| Speaking practice | S | Parked until deliberately introduced |
+| Reading | R | Read Roman Nepali; learner explains meaning in English |
+| Writing | W | Written production: translation, sentence construction, paragraph writing and other written tasks |
+| Listening | L | Hear Nepali audio without seeing transcript; learner explains meaning in English |
+| Speaking | S | Spoken production; parked until deliberately introduced |
 
-Each exercise receives a unique sequential ID (R-001, T-001, L-001, etc.). Keep separate progression decisions for each component.
+**Historical ID note:** The first two writing exercises were originally labelled T-001 and T-002 when the component was called Translation. Preserve those IDs as historical records; all new writing exercises use the W prefix.
+
+Each exercise receives a unique sequential ID (R-001, W-001, L-001, etc.); preserve historical T-001 and T-002 IDs. Keep separate progression decisions for each component.
 
 ## Progression framework
 
@@ -35,7 +37,7 @@ Each exercise receives a unique sequential ID (R-001, T-001, L-001, etc.). Keep 
 | 3 | 7–9 sentences | Less familiar vocabulary and connected ideas |
 | 4 | 10–12 sentences | Natural everyday Nepali |
 
-Apply stages independently to R, T and L. Passage length is a guide, not an automatic promotion rule. Later storybook work should move from simple children's stories to progressively richer narratives, based on demonstrated comprehension.
+Apply stages independently to R, W and L. Passage length is a guide, not an automatic promotion rule. Later storybook work should move from simple children's stories to progressively richer narratives, based on demonstrated comprehension.
 
 ## Assessment and status definitions
 
@@ -57,12 +59,13 @@ For each attempt, record date, exercise ID, stage, passage length, learner respo
 4. Do not routinely ask redundant comprehension questions after a complete paragraph explanation. Ask targeted follow-up questions only if clarification or a specific diagnostic check is useful.
 5. Give corrections and concise explanations after the attempt.
 
-### T — Paragraph translation
-1. Present a short English paragraph.
-2. Learner translates it into Roman Nepali.
+### W — Writing
+Writing tasks may include translation, sentence construction and paragraph writing.
+1. Present a short, clearly scoped writing task.
+2. Learner produces Roman Nepali.
 3. Review sentence by sentence.
 4. Separate grammatical errors, wrong word choices, unnatural phrasing and acceptable alternatives.
-5. Explain only the corrections needed.
+5. If significant errors occur, repeat the same task until the learner produces a fully correct and natural version; do not advance prematurely.
 
 ### L — Listening comprehension
 1. Provide actual spoken Nepali audio, with no visible transcript before the attempt.
@@ -78,7 +81,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 - **Overall:** Programme initialized; no aggregate completion percentage (components are independent).
 - **Written comprehension:** Stage 2 — in progress (advanced after R-019; Stage 1 comprehension was consistently accurate across repeated short passages, with demonstrated understanding of contextual tense choices and successful correction of a vocabulary gap).
-- **Translation:** Stage 1 — in progress; T-001 assessed. Basic sentence construction and event sequence were successful; review location marking (*ma*), demonstratives/possessives (*tyo/yasko*), and quantity/location distinction (*kehi/kahi*) in context.
+- **Writing:** Stage 1 — in progress. Historical translation exercises T-001 and T-002 are both mastered individually; continue varied writing tasks to establish broader Stage 1 competence.
 - **Listening:** Not started; actual audio delivery method must be arranged before L-001. Reading text will not be counted as listening.
 - **Speaking:** Parked by learner request.
 - **Current learning objective:** Build connected-language comprehension and production as preparation for graded Nepali storybooks.
@@ -346,7 +349,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 ## Mixed-category rotation decision
 
 - **Date:** 20 November 2026
-- After completing R-020, rotate one exercise at a time among R (written comprehension), T (English-to-Nepali paragraph translation) and L (actual Nepali audio comprehension), varying the order rather than following a rigid repeating sequence.
+- After completing R-020, rotate one exercise at a time among R (reading comprehension), W (written production) and L (actual Nepali audio comprehension), varying the order rather than following a rigid repeating sequence.
 - Maintain independent progression and assessment for each component. Do not assume reading ability predicts translation or listening ability.
 - Use different subject matter and language structures across categories; do not simply reuse the same paragraph in another modality.
 - Listening remains conditional on actual audio being available. Before counting an L exercise, arrange a genuine audio delivery method; never substitute a visible passage.
@@ -363,7 +366,7 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 - **Last completed exercises:** R-021 and T-002 (T-001 also mastered).
 - **Next exercise:** Arrange actual audio delivery for L-001 before proceeding with listening; otherwise select the next available R or T exercise in the varied rotation. Select the next category in a varied order after each assessed attempt.
-- **Normal session:** One R, one T and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
+- **Normal session:** One R, one W and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
 ## Long-term storybook pathway
