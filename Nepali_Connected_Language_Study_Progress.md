@@ -92,9 +92,9 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 - **Date:** 24 November 2026
 - **Passage length:** 6 sentences.
 - **Learner response:** Understood that one of the speaker's friends went trekking in the hills, started early in the morning, encountered bad weather and rain higher up, waited in a nearby shack until the rain stopped, and resumed the journey afterwards.
-- **Assessment:** Main storyline and event sequence were understood. One complete sentence was missed: on the way, the friend came across a small waterfall where some people were taking photographs. One location/time distinction needs attention: *ali mathi pugda* means “when/upon reaching a little higher up”, not “a little after reaching there”. The final sentence was substantially understood; *matra* adds “only/not until” emphasis: only after the rain stopped did he resume the journey.
-- **Useful vocabulary:** *jharana* = waterfall; *tasbir khichdai thiye* = were taking photographs; *ali mathi pugda* = when reaching a little higher up; *matra* = only/just.
-- **Decision:** R Stage 2 remains in progress. Recycle the missed waterfall/photo detail and the *pugda* location/time construction in a later varied reading passage; do not infer broad mastery from this attempt.
+- **Assessment:** The learner initially understood the main storyline and event sequence but omitted one complete sentence: on the way, the friend came across a small waterfall where some people were taking photographs. In a targeted follow-up, the learner correctly identified both the waterfall and the people taking photographs. The answer used “many people”; *kehi mancheharu* means “some people” and does not specify many. The learner's “on the road” is understandable, but “on the way” is more natural for *bato ma*. The learner challenged the explanation of *ali mathi pugda*: RR distinguishes *-da* as a temporal/circumstantial form (“when/upon reaching”), not necessarily an ongoing action; *-era* presents the preceding action as completed (“having reached/after reaching”). Thus *ali mathi pugda* is correctly rendered “when/upon reaching a little higher up”; it does not mean only “while physically reaching”. The learner also queried whether *pani rokiye pachhi matra* can mean “immediately after”. The phrase means “only after the rain stopped”; *matra* adds the restriction “only/not until”, but does not itself encode immediacy. “Immediately” is a possible contextual inference, not a meaning guaranteed by the Nepali wording.
+- **Useful vocabulary:** *jharana* = waterfall; *kehi mancheharu* = some people; *tasbir khichdai thiye* = were taking photographs; *ali mathi pugda* = when/upon reaching a little higher up; *pani rokiye pachhi matra* = only after the rain stopped / not until the rain stopped.
+- **Decision:** The targeted missing detail was correctly recovered after feedback. R Stage 2 remains in progress; recycle the *pugda* temporal construction and *matra* restriction in later varied material. Do not infer broad mastery from this attempt.
 
 
 ### T-002 — Stage 1 English-to-Nepali paragraph translation
@@ -373,8 +373,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercises:** R-021 and T-002 (T-001 also mastered; T-001/T-002 are historical writing IDs).
-- **Next exercise:** R-022, Stage 2 reading comprehension. L-001 remains parked until the learner is in a suitable setting for actual audio. New writing exercises use the W prefix.
+- **Last completed exercises:** R-022 (Stage 2 reading comprehension, including targeted follow-up) and T-002 (T-001 also mastered; T-001/T-002 are historical writing IDs).
+- **Next exercise:** W-001, Stage 1 written production. L-001 remains parked until the learner is in a suitable setting for actual audio. New writing exercises use the W prefix.
 - **Normal session:** One R, one W and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
