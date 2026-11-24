@@ -364,8 +364,8 @@ Do not start until the learner explicitly agrees. Later scope: spontaneous answe
 
 ## Session history and next action
 
-- **Last completed exercises:** R-021 and T-002 (T-001 also mastered).
-- **Next exercise:** Arrange actual audio delivery for L-001 before proceeding with listening; otherwise select the next available R or T exercise in the varied rotation. Select the next category in a varied order after each assessed attempt.
+- **Last completed exercises:** R-021 and T-002 (T-001 also mastered; T-001/T-002 are historical writing IDs).
+- **Next exercise:** R-022, Stage 2 reading comprehension. L-001 remains parked until the learner is in a suitable setting for actual audio. New writing exercises use the W prefix.
 - **Normal session:** One R, one W and one L exercise, subject to learner preference and actual audio availability. Do not force all components into every session.
 - **Progress update rule:** Update this file after each assessed exercise/session. Preserve prior records; append new entries and update the current status summary.
 
